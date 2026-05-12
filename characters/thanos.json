@@ -31,7 +31,7 @@
     },
     "alignment": "Chaotic Neutral",
     "xp": 0,
-    "portrait": null,
+    "portrait": "https://raw.githubusercontent.com/Teggimon/ttrpg-app-data/main/characters/thanos-images/1778584559168-img-1964.png?v=1778584559168",
     "size": "Medium",
     "languages": [
       "common",
@@ -81,6 +81,17 @@
         "index": "languages",
         "name": "Languages",
         "source": "PHB"
+      }
+    ],
+    "images": [
+      {
+        "id": "1778584559168",
+        "name": "IMG_1964.PNG",
+        "path": "characters/thanos-images/1778584559168-img-1964.png",
+        "url": "https://raw.githubusercontent.com/Teggimon/ttrpg-app-data/main/characters/thanos-images/1778584559168-img-1964.png?v=1778584559168",
+        "type": "image/png",
+        "size": 1128202,
+        "uploadedAt": "2026-05-12T11:15:59.168Z"
       }
     ]
   },
