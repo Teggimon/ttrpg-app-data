@@ -202,7 +202,12 @@
       "damage": {
         "dice": "1d12",
         "type": "slashing"
-      }
+      },
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon"
     },
     {
       "itemId": "03ddf8a9-39bf-42ec-abb1-4da11c0b3d10",
