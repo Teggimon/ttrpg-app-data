@@ -161,7 +161,7 @@
         "key": "second-wind",
         "recharge": "SR",
         "max": 1,
-        "used": 0
+        "used": 1
       }
     ],
     "hitDiceAvailable": 0
@@ -437,7 +437,7 @@
       },
       "equipment_category_index": "adventuring-gear",
       "weight": 1,
-      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torchÃÂ¢ÃÂÃÂor anything else with abundant, exposed fuelÃÂ¢ÃÂÃÂtakes an action. Lighting any other fire takes 1 minute.",
+      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torchÃÂÃÂ¢ÃÂÃÂÃÂÃÂor anything else with abundant, exposed fuelÃÂÃÂ¢ÃÂÃÂÃÂÃÂtakes an action. Lighting any other fire takes 1 minute.",
       "attuned": false,
       "sourcePack": "dungeoneer's pack",
       "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
