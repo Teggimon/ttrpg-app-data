@@ -154,7 +154,16 @@
       "action": 1,
       "bonusAction": 1,
       "reaction": 1
-    }
+    },
+    "classAbilities": [
+      {
+        "name": "Second Wind",
+        "key": "second-wind",
+        "recharge": "SR",
+        "max": 1,
+        "used": 1
+      }
+    ]
   },
   "inventory": [
     {
