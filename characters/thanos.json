@@ -404,7 +404,7 @@
       },
       "equipment_category_index": "adventuring-gear",
       "weight": 1,
-      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.",
+      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torchâor anything else with abundant, exposed fuelâtakes an action. Lighting any other fire takes 1 minute.",
       "attuned": false,
       "sourcePack": "dungeoneer's pack",
       "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
@@ -446,20 +446,23 @@
     {
       "itemId": "3d81da5e-a5f8-41fb-b1a0-9bdc47cade13",
       "index": "hempen-rope-50-feet",
-      "name": "Hempen Rope (50 feet)",
+      "name": "Hempen Rope",
       "source": "PHB",
-      "quantity": 1,
+      "quantity": 50,
       "equipped": false,
       "equipment_category": {
         "index": "adventuring-gear",
         "name": "Adventuring Gear"
       },
       "equipment_category_index": "adventuring-gear",
-      "weight": 10,
+      "weight": 0.2,
       "description": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a 17 Strength check.",
       "attuned": false,
       "sourcePack": "dungeoneer's pack",
-      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
+      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5",
+      "quantityUnit": "ft",
+      "quantityStep": 50,
+      "originalBundleName": "Hempen Rope (50 feet)"
     },
     {
       "itemId": "4020289d-d37a-4acd-a462-d2ab99898633",
