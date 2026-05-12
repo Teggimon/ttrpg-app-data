@@ -161,9 +161,10 @@
         "key": "second-wind",
         "recharge": "SR",
         "max": 1,
-        "used": 1
+        "used": 0
       }
-    ]
+    ],
+    "hitDiceAvailable": 0
   },
   "inventory": [
     {
