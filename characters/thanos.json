@@ -520,6 +520,22 @@
       "properties": [
         "Versatile"
       ]
+    },
+    {
+      "itemId": "ffd50320-2e40-41d8-9faf-0564ffd4212e",
+      "index": "ring-of-protection",
+      "name": "Ring of Protection",
+      "source": "DMG",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "magic-item",
+        "name": "Magic Item"
+      },
+      "equipment_category_index": "magic-item",
+      "rarity": "rare",
+      "requiresAttunement": true,
+      "description": "You gain a +1 bonus to AC and saving throws while wearing this ring."
     }
   ],
   "racialTraits": [
