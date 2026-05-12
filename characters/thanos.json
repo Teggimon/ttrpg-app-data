@@ -465,21 +465,31 @@
     {
       "itemId": "4020289d-d37a-4acd-a462-d2ab99898633",
       "index": "longsword",
-      "name": "Longsword",
-      "source": "PHB",
+      "name": "Talon",
+      "type": "Weapon",
       "quantity": 1,
-      "equipped": true,
-      "equipment_category": {
-        "index": "melee-weapon",
-        "name": "Melee Weapon"
-      },
-      "equipment_category_index": "melee-weapon",
       "weight": 3,
+      "description": "+1 Longsword - has a bird of prey on the hilt",
+      "equipped": true,
+      "effects": [
+        {
+          "stat": "Attack Roll",
+          "mode": "add",
+          "value": 1,
+          "notes": ""
+        },
+        {
+          "stat": "Damage",
+          "mode": "add",
+          "value": 1,
+          "notes": ""
+        }
+      ],
       "damage": {
         "dice": "1d8",
-        "type": "slashing"
-      },
-      "description": ""
+        "type": "slashing",
+        "versatile": "1d10"
+      }
     }
   ],
   "racialTraits": [
