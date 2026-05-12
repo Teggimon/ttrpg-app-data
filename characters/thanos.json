@@ -88,9 +88,9 @@
     "abilityScores": {
       "str": 18,
       "dex": 11,
-      "con": 1,
+      "con": 14,
       "int": 12,
-      "wis": 8,
+      "wis": 10,
       "cha": 11
     },
     "savingThrows": {
