@@ -189,7 +189,13 @@
         "dice": "2d6",
         "type": "slashing"
       },
-      "description": ""
+      "description": "",
+      "weapon_category": "Martial",
+      "weapon_range": "Melee",
+      "properties": [
+        "Heavy",
+        "Two-Handed"
+      ]
     },
     {
       "itemId": "428c8042-e5b1-4108-97d1-d27e32a36d38",
@@ -207,7 +213,13 @@
         "index": "melee-weapon",
         "name": "Melee Weapon"
       },
-      "equipment_category_index": "melee-weapon"
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Martial",
+      "weapon_range": "Melee",
+      "properties": [
+        "Heavy",
+        "Two-Handed"
+      ]
     },
     {
       "itemId": "03ddf8a9-39bf-42ec-abb1-4da11c0b3d10",
@@ -226,7 +238,13 @@
         "dice": "1d6",
         "type": "slashing"
       },
-      "description": ""
+      "description": "",
+      "weapon_category": "Simple",
+      "weapon_range": "Melee",
+      "properties": [
+        "Light",
+        "Thrown"
+      ]
     },
     {
       "itemId": "a7cee65e-b7bc-4084-b57c-2ddfee06230b",
@@ -404,7 +422,7 @@
       },
       "equipment_category_index": "adventuring-gear",
       "weight": 1,
-      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torchâor anything else with abundant, exposed fuelâtakes an action. Lighting any other fire takes 1 minute.",
+      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torchÃ¢ÂÂor anything else with abundant, exposed fuelÃ¢ÂÂtakes an action. Lighting any other fire takes 1 minute.",
       "attuned": false,
       "sourcePack": "dungeoneer's pack",
       "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
@@ -496,7 +514,12 @@
         "index": "melee-weapon",
         "name": "Melee Weapon"
       },
-      "equipment_category_index": "melee-weapon"
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Martial",
+      "weapon_range": "Melee",
+      "properties": [
+        "Versatile"
+      ]
     }
   ],
   "racialTraits": [
