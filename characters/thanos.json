@@ -405,7 +405,8 @@
       "weight": 1,
       "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.",
       "attuned": false,
-      "sourcePack": "dungeoneer's pack"
+      "sourcePack": "dungeoneer's pack",
+      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
     },
     {
       "itemId": "3208cb0d-dc0d-4612-b648-38303befd263",
