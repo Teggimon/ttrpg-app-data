@@ -252,7 +252,8 @@
       "quantity": 1,
       "custom": true,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "inventoryLabelId": "52633984-95f7-4ad1-a4e7-8f7961b3a922"
     },
     {
       "itemId": "90d45313-a9df-4063-a57b-cc7879049d07",
