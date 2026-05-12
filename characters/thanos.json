@@ -151,7 +151,7 @@
     },
     "conditions": [],
     "actionEconomy": {
-      "action": 0,
+      "action": 1,
       "bonusAction": 1,
       "reaction": 1
     }
