@@ -193,22 +193,16 @@
     },
     {
       "itemId": "428c8042-e5b1-4108-97d1-d27e32a36d38",
-      "equipped": true,
       "index": "greataxe",
       "name": "Greataxe",
-      "source": "PHB",
+      "type": "Weapon",
       "quantity": 1,
-      "equipment_category": {
-        "index": "melee-weapon",
-        "name": "Melee Weapon"
-      },
-      "equipment_category_index": "melee-weapon",
       "weight": 7,
+      "equipped": true,
       "damage": {
         "dice": "1d12",
         "type": "slashing"
-      },
-      "description": ""
+      }
     },
     {
       "itemId": "03ddf8a9-39bf-42ec-abb1-4da11c0b3d10",
