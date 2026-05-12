@@ -664,7 +664,7 @@
     "general": ""
   },
   "settings": {
-    "encumbranceTracking": false,
+    "encumbranceTracking": true,
     "encumbranceMode": "disabled",
     "attunementLimit": 3,
     "spellComponents": "all",
