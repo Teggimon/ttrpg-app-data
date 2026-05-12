@@ -489,7 +489,12 @@
         "dice": "1d8",
         "type": "slashing",
         "versatile": "1d10"
-      }
+      },
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon"
     }
   ],
   "racialTraits": [
