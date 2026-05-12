@@ -436,6 +436,12 @@
     "shortRestsPerLongRest": 2,
     "levellingSystem": "xp",
     "milestoneMode": false,
-    "multiclassing": "enabled"
+    "multiclassing": "enabled",
+    "inventoryLabels": [
+      {
+        "id": "04a58030-7217-443a-89b5-69bfeefc20e7",
+        "name": "Weapons & Armour"
+      }
+    ]
   }
 }
