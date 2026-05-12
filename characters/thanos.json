@@ -230,21 +230,6 @@
       "description": ""
     },
     {
-      "itemId": "e572b823-2b87-4deb-85bf-7ab646f03e44",
-      "equipped": false,
-      "index": "dungeoneers-pack",
-      "name": "dungeoneer's pack",
-      "quantity": 1,
-      "groupIndex": 3,
-      "choiceId": "3_0",
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 61.5
-    },
-    {
       "itemId": "a7cee65e-b7bc-4084-b57c-2ddfee06230b",
       "equipped": false,
       "index": "insignia-of-rank",
@@ -315,6 +300,159 @@
       },
       "equipment_category_index": "gaming-set",
       "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
+    },
+    {
+      "itemId": "0ae12f0d-859a-4e36-a389-e162bc923363",
+      "index": "backpack",
+      "name": "Backpack",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5,
+      "description": "A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.",
+      "attuned": false,
+      "sourcePack": "dungeoneer's pack"
+    },
+    {
+      "itemId": "9b0f28f5-0152-4969-9998-5aaf77385b0e",
+      "index": "crowbar",
+      "name": "Crowbar",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5,
+      "description": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.",
+      "attuned": false,
+      "sourcePack": "dungeoneer's pack"
+    },
+    {
+      "itemId": "1f1114b7-8a69-428f-bd49-b955af93b94b",
+      "index": "hammer",
+      "name": "Hammer",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 3,
+      "description": "",
+      "attuned": false,
+      "sourcePack": "dungeoneer's pack"
+    },
+    {
+      "itemId": "c205729b-aaca-4012-89d1-8aa0063c0f44",
+      "index": "piton",
+      "name": "Piton",
+      "source": "PHB",
+      "quantity": 10,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 0.25,
+      "description": "",
+      "attuned": false,
+      "sourcePack": "dungeoneer's pack"
+    },
+    {
+      "itemId": "af23311f-bed7-43db-8636-50bbb593547c",
+      "index": "torch",
+      "name": "Torch",
+      "source": "PHB",
+      "quantity": 10,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1,
+      "description": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.",
+      "attuned": false,
+      "sourcePack": "dungeoneer's pack"
+    },
+    {
+      "itemId": "e333481c-1f3f-4137-935f-9580f1de3909",
+      "index": "tinderbox",
+      "name": "Tinderbox",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1,
+      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.",
+      "attuned": false,
+      "sourcePack": "dungeoneer's pack"
+    },
+    {
+      "itemId": "3208cb0d-dc0d-4612-b648-38303befd263",
+      "index": "rations-1-day",
+      "name": "Rations (1 day)",
+      "source": "PHB",
+      "quantity": 10,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 2,
+      "description": "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.",
+      "attuned": false,
+      "sourcePack": "dungeoneer's pack"
+    },
+    {
+      "itemId": "784c1e28-7454-4925-ae87-8b4cf769cdd1",
+      "index": "waterskin",
+      "name": "Waterskin",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5,
+      "description": "A waterskin can hold up to 4 pints of liquid.",
+      "attuned": false,
+      "sourcePack": "dungeoneer's pack"
+    },
+    {
+      "itemId": "3d81da5e-a5f8-41fb-b1a0-9bdc47cade13",
+      "index": "hempen-rope-50-feet",
+      "name": "Hempen Rope (50 feet)",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 10,
+      "description": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a 17 Strength check.",
+      "attuned": false,
+      "sourcePack": "dungeoneer's pack"
     }
   ],
   "racialTraits": [
