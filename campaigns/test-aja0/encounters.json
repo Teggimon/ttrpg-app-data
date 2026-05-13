@@ -10,21 +10,21 @@
         {
           "npcId": "mfwyb39pmp3ukqy7",
           "quantity": 3,
-          "hpMode": "fixed",
+          "hpMode": "roll",
           "hpValue": 5,
           "hpFormula": "2d6 - 2"
         },
         {
           "npcId": "wc82lxsqmp3ukxub",
           "quantity": 2,
-          "hpMode": "fixed",
+          "hpMode": "roll",
           "hpValue": 7,
           "hpFormula": "3d6 - 3"
         }
       ],
       "combatants": [
         {
-          "id": "va156614mp3ul8nn",
+          "id": "hqcc9slkmp3ulf0v",
           "npcId": "mfwyb39pmp3ukqy7",
           "instanceLabel": "A",
           "type": "enemy",
@@ -60,12 +60,12 @@
             "type": "humanoid",
             "hitDie": "2d6 - 2"
           },
-          "hpMode": "fixed",
+          "hpMode": "roll",
           "hpValue": 5,
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "s2l71howmp3ul8nn",
+          "id": "977c0evomp3ulf0v",
           "npcId": "mfwyb39pmp3ukqy7",
           "instanceLabel": "B",
           "type": "enemy",
@@ -101,12 +101,12 @@
             "type": "humanoid",
             "hitDie": "2d6 - 2"
           },
-          "hpMode": "fixed",
+          "hpMode": "roll",
           "hpValue": 5,
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "kntyv3ssmp3ul8nn",
+          "id": "26llfiwlmp3ulf0v",
           "npcId": "mfwyb39pmp3ukqy7",
           "instanceLabel": "C",
           "type": "enemy",
@@ -142,12 +142,12 @@
             "type": "humanoid",
             "hitDie": "2d6 - 2"
           },
-          "hpMode": "fixed",
+          "hpMode": "roll",
           "hpValue": 5,
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "yr9pt9brmp3ul8nn",
+          "id": "px69eva1mp3ulf0v",
           "npcId": "wc82lxsqmp3ukxub",
           "instanceLabel": "A",
           "type": "enemy",
@@ -183,12 +183,12 @@
             "type": "humanoid",
             "hitDie": "3d6 - 3"
           },
-          "hpMode": "fixed",
+          "hpMode": "roll",
           "hpValue": 7,
           "hpFormula": "3d6 - 3"
         },
         {
-          "id": "ewtvptcrmp3ul8no",
+          "id": "n6x9tmuhmp3ulf0v",
           "npcId": "wc82lxsqmp3ukxub",
           "instanceLabel": "B",
           "type": "enemy",
@@ -224,12 +224,12 @@
             "type": "humanoid",
             "hitDie": "3d6 - 3"
           },
-          "hpMode": "fixed",
+          "hpMode": "roll",
           "hpValue": 7,
           "hpFormula": "3d6 - 3"
         }
       ],
-      "updatedAt": "2026-05-13T09:19:06.516Z"
+      "updatedAt": "2026-05-13T09:19:14.767Z"
     }
   ]
 }
