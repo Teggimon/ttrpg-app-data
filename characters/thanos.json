@@ -510,7 +510,7 @@
       "name": "Battleaxe",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false,
+      "equipped": true,
       "equipment_category": {
         "index": "melee-weapon",
         "name": "Melee Weapon"
