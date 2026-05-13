@@ -555,7 +555,16 @@
       "itemId": "11e42edf-4bf1-4da4-be5b-1682cf615fe8",
       "index": "silver-pieces",
       "name": "Silver Pieces",
-      "quantity": 5,
+      "quantity": 531,
+      "isCurrency": true,
+      "equipped": false,
+      "attuned": false
+    },
+    {
+      "itemId": "2c37de2f-0d65-45f7-b59b-809df21e4e9b",
+      "index": "electrum-pieces",
+      "name": "Electrum Pieces",
+      "quantity": 1,
       "isCurrency": true,
       "equipped": false
     }
