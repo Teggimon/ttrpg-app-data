@@ -134,14 +134,14 @@
         {
           "npcId": "36pqmgp8mp3dl1wx",
           "quantity": 3,
-          "hpMode": "fixed",
+          "hpMode": "roll",
           "hpValue": 22,
           "hpFormula": "5d6 + 5"
         }
       ],
       "combatants": [
         {
-          "id": "5z6v0whamp3gya1s",
+          "id": "h4d0qfs3mp3gylir",
           "npcId": "36pqmgp8mp3dl1wx",
           "instanceLabel": "A",
           "type": "enemy",
@@ -177,12 +177,12 @@
             "type": "elemental",
             "hitDie": "5d6 + 5"
           },
-          "hpMode": "fixed",
+          "hpMode": "roll",
           "hpValue": 22,
           "hpFormula": "5d6 + 5"
         },
         {
-          "id": "mr07ty6hmp3gya1s",
+          "id": "8inkdib7mp3gylir",
           "npcId": "36pqmgp8mp3dl1wx",
           "instanceLabel": "B",
           "type": "enemy",
@@ -218,12 +218,12 @@
             "type": "elemental",
             "hitDie": "5d6 + 5"
           },
-          "hpMode": "fixed",
+          "hpMode": "roll",
           "hpValue": 22,
           "hpFormula": "5d6 + 5"
         },
         {
-          "id": "txwbzo82mp3gya1s",
+          "id": "cgqt1u3ymp3gylir",
           "npcId": "36pqmgp8mp3dl1wx",
           "instanceLabel": "C",
           "type": "enemy",
@@ -259,12 +259,12 @@
             "type": "elemental",
             "hitDie": "5d6 + 5"
           },
-          "hpMode": "fixed",
+          "hpMode": "roll",
           "hpValue": 22,
           "hpFormula": "5d6 + 5"
         }
       ],
-      "updatedAt": "2026-05-13T02:57:20.225Z"
+      "updatedAt": "2026-05-13T02:57:35.091Z"
     }
   ]
 }
