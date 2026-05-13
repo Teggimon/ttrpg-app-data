@@ -387,6 +387,33 @@
       ],
       "source": "srd",
       "sourceBook": "MM"
+    },
+    {
+      "npcId": "vfgl53pdmp3es7t1",
+      "name": "Blue Dragon Wyrmling",
+      "type": "dragon",
+      "cr": "3",
+      "hp": 52,
+      "hitDie": "8d8 + 16",
+      "ac": 17,
+      "initiative": 0,
+      "category": "standard",
+      "actions": [
+        {
+          "name": "Bite",
+          "desc": [
+            "mw 5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage."
+          ]
+        },
+        {
+          "name": "Lightning Breath {@recharge 5}",
+          "desc": [
+            "The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one."
+          ]
+        }
+      ],
+      "source": "srd",
+      "sourceBook": "MM"
     }
   ]
 }
