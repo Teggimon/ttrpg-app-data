@@ -507,27 +507,31 @@
     {
       "itemId": "5b6d5408-f482-4bf8-b9a7-a9f86c0fdc00",
       "index": "battleaxe",
-      "name": "Battleaxe",
-      "source": "PHB",
+      "name": "Hew",
+      "type": "Weapon",
       "quantity": 1,
-      "equipped": true,
-      "equipment_category": {
-        "index": "melee-weapon",
-        "name": "Melee Weapon"
-      },
-      "equipment_category_index": "melee-weapon",
-      "weapon_category": "Martial",
-      "weapon_range": "Melee",
-      "properties": [
-        "Versatile"
-      ],
       "weight": 4,
+      "description": "A +1 Battleaxe that was found as part of Venomfangs hoard in Thundertree. -LMoP",
+      "equipped": true,
+      "effects": [
+        {
+          "stat": "Attack Roll",
+          "mode": "add",
+          "value": 1,
+          "notes": ""
+        },
+        {
+          "stat": "Damage",
+          "mode": "add",
+          "value": 1,
+          "notes": ""
+        }
+      ],
       "damage": {
         "dice": "1d8",
         "type": "slashing",
         "versatile": "1d10"
-      },
-      "description": ""
+      }
     }
   ],
   "racialTraits": [
