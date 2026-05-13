@@ -548,8 +548,8 @@
       "index": "javelin",
       "name": "Javelin",
       "source": "PHB",
-      "quantity": 2,
-      "equipped": false,
+      "quantity": 6,
+      "equipped": true,
       "equipment_category": {
         "index": "melee-weapon",
         "name": "Melee Weapon"
