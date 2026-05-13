@@ -1,0 +1,31 @@
+{
+  "npcs": [
+    {
+      "npcId": "mfwyb39pmp3ukqy7",
+      "name": "Kobold",
+      "type": "humanoid",
+      "cr": "1/8",
+      "hp": 5,
+      "hitDie": "2d6 - 2",
+      "ac": 12,
+      "initiative": 2,
+      "category": "standard",
+      "actions": [
+        {
+          "name": "Dagger",
+          "desc": [
+            "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+          ]
+        },
+        {
+          "name": "Sling",
+          "desc": [
+            "rw 4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+          ]
+        }
+      ],
+      "source": "srd",
+      "sourceBook": "MM"
+    }
+  ]
+}
