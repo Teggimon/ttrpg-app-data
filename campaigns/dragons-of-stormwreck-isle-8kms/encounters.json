@@ -1,0 +1,128 @@
+{
+  "encounters": [
+    {
+      "encounterId": "spzzh9fwmp3gtv3k",
+      "name": "1 Landing",
+      "defeated": false,
+      "status": "prepared",
+      "enemyCount": 3,
+      "groups": [
+        {
+          "npcId": "w9lg7xhgmp3ej3cx",
+          "quantity": 3,
+          "hpMode": "roll",
+          "hpValue": 22,
+          "hpFormula": "3d8 + 9"
+        }
+      ],
+      "combatants": [
+        {
+          "id": "t115v772mp3gtv3k",
+          "npcId": "w9lg7xhgmp3ej3cx",
+          "instanceLabel": "A",
+          "type": "enemy",
+          "name": "Zombie A",
+          "baseName": "Zombie",
+          "hp": 22,
+          "hpMax": 22,
+          "initiativeMod": -2,
+          "ac": 8,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Slam",
+              "note": [
+                "mw 3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Zombie",
+            "category": "standard",
+            "type": "undead",
+            "hitDie": "3d8 + 9"
+          },
+          "hpMode": "roll",
+          "hpValue": 22,
+          "hpFormula": "3d8 + 9"
+        },
+        {
+          "id": "ks8ixukymp3gtv3k",
+          "npcId": "w9lg7xhgmp3ej3cx",
+          "instanceLabel": "B",
+          "type": "enemy",
+          "name": "Zombie B",
+          "baseName": "Zombie",
+          "hp": 22,
+          "hpMax": 22,
+          "initiativeMod": -2,
+          "ac": 8,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Slam",
+              "note": [
+                "mw 3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Zombie",
+            "category": "standard",
+            "type": "undead",
+            "hitDie": "3d8 + 9"
+          },
+          "hpMode": "roll",
+          "hpValue": 22,
+          "hpFormula": "3d8 + 9"
+        },
+        {
+          "id": "bxyp14jamp3gtv3k",
+          "npcId": "w9lg7xhgmp3ej3cx",
+          "instanceLabel": "C",
+          "type": "enemy",
+          "name": "Zombie C",
+          "baseName": "Zombie",
+          "hp": 22,
+          "hpMax": 22,
+          "initiativeMod": -2,
+          "ac": 8,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Slam",
+              "note": [
+                "mw 3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Zombie",
+            "category": "standard",
+            "type": "undead",
+            "hitDie": "3d8 + 9"
+          },
+          "hpMode": "roll",
+          "hpValue": 22,
+          "hpFormula": "3d8 + 9"
+        }
+      ],
+      "updatedAt": "2026-05-13T02:53:54.225Z"
+    }
+  ]
+}
