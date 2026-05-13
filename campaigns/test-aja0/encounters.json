@@ -236,7 +236,7 @@
     {
       "encounterId": "mtdrg78smp44g65e",
       "name": "Encounter 13/05/2026",
-      "defeated": false,
+      "defeated": true,
       "status": "prepared",
       "enemyCount": 6,
       "groups": [
@@ -503,7 +503,9 @@
           "hpFormula": "3d6 - 3"
         }
       ],
-      "updatedAt": "2026-05-13T13:55:06.146Z"
+      "updatedAt": "2026-05-13T13:56:02.617Z",
+      "lastOutcome": "victory",
+      "lastRunAt": "2026-05-13T13:56:02.617Z"
     }
   ]
 }
