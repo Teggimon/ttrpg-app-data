@@ -546,7 +546,16 @@
       "itemId": "d522e15f-f33a-4140-8df2-3e667301af01",
       "index": "copper-pieces",
       "name": "Copper Pieces",
-      "quantity": 7,
+      "quantity": 722,
+      "isCurrency": true,
+      "equipped": false,
+      "attuned": false
+    },
+    {
+      "itemId": "11e42edf-4bf1-4da4-be5b-1682cf615fe8",
+      "index": "silver-pieces",
+      "name": "Silver Pieces",
+      "quantity": 5,
       "isCurrency": true,
       "equipped": false
     }
