@@ -3,7 +3,7 @@
     {
       "encounterId": "tz1njqsxmp3ul8no",
       "name": "Encounter 13/05/2026",
-      "defeated": false,
+      "defeated": true,
       "status": "prepared",
       "enemyCount": 5,
       "groups": [
@@ -229,7 +229,9 @@
           "hpFormula": "3d6 - 3"
         }
       ],
-      "updatedAt": "2026-05-13T09:19:14.767Z"
+      "updatedAt": "2026-05-13T09:22:17.003Z",
+      "lastOutcome": "victory",
+      "lastRunAt": "2026-05-13T09:22:17.003Z"
     }
   ]
 }
