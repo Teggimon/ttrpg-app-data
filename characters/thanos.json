@@ -188,31 +188,6 @@
       "description": "Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets."
     },
     {
-      "itemId": "03ddf8a9-39bf-42ec-abb1-4da11c0b3d10",
-      "equipped": true,
-      "index": "handaxe",
-      "name": "Handaxe",
-      "source": "PHB",
-      "quantity": 2,
-      "equipment_category": {
-        "index": "melee-weapon",
-        "name": "Melee Weapon"
-      },
-      "equipment_category_index": "melee-weapon",
-      "weight": 2,
-      "damage": {
-        "dice": "1d6",
-        "type": "slashing"
-      },
-      "description": "",
-      "weapon_category": "Simple",
-      "weapon_range": "Melee",
-      "properties": [
-        "Light",
-        "Thrown"
-      ]
-    },
-    {
       "itemId": "a7cee65e-b7bc-4084-b57c-2ddfee06230b",
       "equipped": false,
       "index": "insignia-of-rank",
