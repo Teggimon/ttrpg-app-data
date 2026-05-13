@@ -6,7 +6,7 @@
       "number": 1,
       "date": "2026-05-13T09:17:36.600Z",
       "status": "live",
-      "duration": 36435,
+      "duration": 36437,
       "players": [],
       "encounters": [
         {
@@ -578,8 +578,8 @@
         }
       ],
       "timerRunning": true,
-      "timerStartedAt": "2026-05-13T23:58:12.836Z",
-      "timerUpdatedAt": "2026-05-13T23:58:12.836Z"
+      "timerStartedAt": "2026-05-13T23:58:14.396Z",
+      "timerUpdatedAt": "2026-05-13T23:58:14.396Z"
     }
   ]
 }
