@@ -573,9 +573,10 @@
       "itemId": "9eaaa66d-4a15-40e4-9d19-3bfcbc7b09fb",
       "index": "gold-pieces",
       "name": "Gold Pieces",
-      "quantity": 5,
+      "quantity": 52,
       "isCurrency": true,
-      "equipped": false
+      "equipped": false,
+      "attuned": false
     }
   ],
   "racialTraits": [
