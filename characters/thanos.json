@@ -573,10 +573,18 @@
       "itemId": "9eaaa66d-4a15-40e4-9d19-3bfcbc7b09fb",
       "index": "gold-pieces",
       "name": "Gold Pieces",
-      "quantity": 52,
+      "quantity": 527,
       "isCurrency": true,
       "equipped": false,
       "attuned": false
+    },
+    {
+      "itemId": "cd219fed-50c0-44e8-a4e1-189a63151547",
+      "index": "platinum-pieces",
+      "name": "Platinum Pieces",
+      "quantity": 1,
+      "isCurrency": true,
+      "equipped": false
     }
   ],
   "racialTraits": [
