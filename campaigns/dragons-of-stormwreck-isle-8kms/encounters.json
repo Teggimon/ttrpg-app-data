@@ -685,6 +685,66 @@
         }
       ],
       "updatedAt": "2026-05-13T03:00:25.260Z"
+    },
+    {
+      "encounterId": "0x4ughxjmp3h5z1h",
+      "name": "2 Segrow Caves - Octo",
+      "defeated": false,
+      "status": "prepared",
+      "enemyCount": 1,
+      "groups": [
+        {
+          "npcId": "t6te1f1jmp3elr6f",
+          "quantity": 1,
+          "hpMode": "roll",
+          "hpValue": 3,
+          "hpFormula": "1d6"
+        }
+      ],
+      "combatants": [
+        {
+          "id": "1ee83lt6mp3h5z1h",
+          "npcId": "t6te1f1jmp3elr6f",
+          "instanceLabel": "A",
+          "type": "enemy",
+          "name": "Octopus A",
+          "baseName": "Octopus",
+          "hp": 3,
+          "hpMax": 3,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "0",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Tentacles",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape 10). Until this grapple ends, the octopus can't use its tentacles on another target."
+              ]
+            },
+            {
+              "name": "Ink Cloud (Recharges after a Short or Long Rest)",
+              "note": [
+                "A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Octopus",
+            "category": "standard",
+            "type": "beast",
+            "hitDie": "1d6"
+          },
+          "hpMode": "roll",
+          "hpValue": 3,
+          "hpFormula": "1d6"
+        }
+      ],
+      "updatedAt": "2026-05-13T03:03:19.205Z"
     }
   ]
 }
