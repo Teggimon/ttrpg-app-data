@@ -17,7 +17,7 @@
       {
         "name": "Cleric",
         "index": "cleric",
-        "level": 1,
+        "level": 2,
         "subclass": "Light"
       }
     ],
@@ -105,8 +105,8 @@
     "damageResistances": []
   },
   "combat": {
-    "hpMax": 9,
-    "hpCurrent": 9,
+    "hpMax": 13,
+    "hpCurrent": 13,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,
@@ -327,7 +327,7 @@
     "spellcastingAbility": "wis",
     "slots": {
       "1": {
-        "total": 2,
+        "total": 3,
         "used": 0
       }
     },
@@ -413,6 +413,58 @@
         "classIndex": "cleric",
         "className": "Cleric",
         "gainedAtLevel": 1
+      },
+      {
+        "index": "cleric-2-channel-divinity",
+        "name": "Channel Divinity",
+        "source": "PHB",
+        "className": "Cleric",
+        "level": 2,
+        "desc": [
+          "At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description. When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC. Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses."
+        ],
+        "choices": [],
+        "classIndex": "cleric",
+        "gainedAtLevel": 2
+      },
+      {
+        "index": "cleric-2-channel-divinity-harness-divine-power",
+        "name": "Channel Divinity: Harness Divine Power",
+        "source": "TCE",
+        "className": "Cleric",
+        "level": 2,
+        "desc": [
+          "2nd-level cleric {@variantrule optional class features} You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest."
+        ],
+        "choices": [],
+        "classIndex": "cleric",
+        "gainedAtLevel": 2
+      },
+      {
+        "index": "cleric-2-channel-divinity-turn-undead",
+        "name": "Channel Divinity: Turn Undead",
+        "source": "PHB",
+        "className": "Cleric",
+        "level": 2,
+        "desc": [
+          "As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action."
+        ],
+        "choices": [],
+        "classIndex": "cleric",
+        "gainedAtLevel": 2
+      },
+      {
+        "index": "cleric-2-divine-domain-feature",
+        "name": "Divine Domain feature",
+        "source": "PHB",
+        "className": "Cleric",
+        "level": 2,
+        "desc": [
+          "At 2nd level, you gain a feature from your Divine Domain."
+        ],
+        "choices": [],
+        "classIndex": "cleric",
+        "gainedAtLevel": 2
       }
     ],
     "classFeatureChoices": [],
