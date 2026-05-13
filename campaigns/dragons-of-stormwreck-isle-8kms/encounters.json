@@ -123,6 +123,148 @@
         }
       ],
       "updatedAt": "2026-05-13T02:53:54.225Z"
+    },
+    {
+      "encounterId": "ayd8ncx9mp3gya1s",
+      "name": "Opt 1 Combat",
+      "defeated": false,
+      "status": "prepared",
+      "enemyCount": 3,
+      "groups": [
+        {
+          "npcId": "36pqmgp8mp3dl1wx",
+          "quantity": 3,
+          "hpMode": "fixed",
+          "hpValue": 22,
+          "hpFormula": "5d6 + 5"
+        }
+      ],
+      "combatants": [
+        {
+          "id": "5z6v0whamp3gya1s",
+          "npcId": "36pqmgp8mp3dl1wx",
+          "instanceLabel": "A",
+          "type": "enemy",
+          "name": "Fume Drake A",
+          "baseName": "Fume Drake",
+          "hp": 22,
+          "hpMax": 22,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Bite",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) fire damage."
+              ]
+            },
+            {
+              "name": "Scalding Breath {@recharge}",
+              "note": [
+                "The fume drake exhales a 15-foot cone of scalding steam. Each creature in that area must make a 11 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Fume Drake",
+            "category": "standard",
+            "type": "elemental",
+            "hitDie": "5d6 + 5"
+          },
+          "hpMode": "fixed",
+          "hpValue": 22,
+          "hpFormula": "5d6 + 5"
+        },
+        {
+          "id": "mr07ty6hmp3gya1s",
+          "npcId": "36pqmgp8mp3dl1wx",
+          "instanceLabel": "B",
+          "type": "enemy",
+          "name": "Fume Drake B",
+          "baseName": "Fume Drake",
+          "hp": 22,
+          "hpMax": 22,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Bite",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) fire damage."
+              ]
+            },
+            {
+              "name": "Scalding Breath {@recharge}",
+              "note": [
+                "The fume drake exhales a 15-foot cone of scalding steam. Each creature in that area must make a 11 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Fume Drake",
+            "category": "standard",
+            "type": "elemental",
+            "hitDie": "5d6 + 5"
+          },
+          "hpMode": "fixed",
+          "hpValue": 22,
+          "hpFormula": "5d6 + 5"
+        },
+        {
+          "id": "txwbzo82mp3gya1s",
+          "npcId": "36pqmgp8mp3dl1wx",
+          "instanceLabel": "C",
+          "type": "enemy",
+          "name": "Fume Drake C",
+          "baseName": "Fume Drake",
+          "hp": 22,
+          "hpMax": 22,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Bite",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) fire damage."
+              ]
+            },
+            {
+              "name": "Scalding Breath {@recharge}",
+              "note": [
+                "The fume drake exhales a 15-foot cone of scalding steam. Each creature in that area must make a 11 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Fume Drake",
+            "category": "standard",
+            "type": "elemental",
+            "hitDie": "5d6 + 5"
+          },
+          "hpMode": "fixed",
+          "hpValue": 22,
+          "hpFormula": "5d6 + 5"
+        }
+      ],
+      "updatedAt": "2026-05-13T02:57:20.225Z"
     }
   ]
 }
