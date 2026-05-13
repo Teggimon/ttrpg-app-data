@@ -97,7 +97,7 @@
   },
   "stats": {
     "abilityScores": {
-      "str": 18,
+      "str": 2,
       "dex": 11,
       "con": 14,
       "int": 12,
@@ -697,7 +697,7 @@
     "general": ""
   },
   "settings": {
-    "encumbranceTracking": false,
+    "encumbranceTracking": true,
     "encumbranceMode": "disabled",
     "attunementLimit": 3,
     "spellComponents": "all",
