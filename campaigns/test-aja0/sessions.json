@@ -1,0 +1,14 @@
+{
+  "sessions": [
+    {
+      "sessionId": "5nt91i2wmp3ujba0",
+      "name": "Session 1",
+      "number": 1,
+      "date": "2026-05-13T09:17:36.600Z",
+      "status": "live",
+      "duration": 0,
+      "players": [],
+      "encounters": []
+    }
+  ]
+}
