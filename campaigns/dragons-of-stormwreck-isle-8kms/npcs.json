@@ -206,6 +206,33 @@
       ],
       "source": "srd",
       "sourceBook": "MM"
+    },
+    {
+      "npcId": "mfxxow7vmp3eg0un",
+      "name": "Myconid Sprout",
+      "type": "plant",
+      "cr": "0",
+      "hp": 7,
+      "hitDie": "2d6",
+      "ac": 10,
+      "initiative": 0,
+      "category": "standard",
+      "actions": [
+        {
+          "name": "Fist",
+          "desc": [
+            "mw 1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) bludgeoning damage plus 2 (1d4) poison damage."
+          ]
+        },
+        {
+          "name": "Rapport Spores (3/Day)",
+          "desc": [
+            "A 10-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour."
+          ]
+        }
+      ],
+      "source": "srd",
+      "sourceBook": "MM"
     }
   ]
 }
