@@ -845,6 +845,107 @@
         }
       ],
       "updatedAt": "2026-05-13T03:05:13.879Z"
+    },
+    {
+      "encounterId": "4zh1bkplmp3hdpd8",
+      "name": "4 Seagrow Caves- Crystal Cave",
+      "defeated": false,
+      "status": "prepared",
+      "enemyCount": 2,
+      "groups": [
+        {
+          "npcId": "36pqmgp8mp3dl1wx",
+          "quantity": 2,
+          "hpMode": "roll",
+          "hpValue": 22,
+          "hpFormula": "5d6 + 5"
+        }
+      ],
+      "combatants": [
+        {
+          "id": "eqqgswe5mp3hdpd8",
+          "npcId": "36pqmgp8mp3dl1wx",
+          "instanceLabel": "A",
+          "type": "enemy",
+          "name": "Fume Drake A",
+          "baseName": "Fume Drake",
+          "hp": 22,
+          "hpMax": 22,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Bite",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) fire damage."
+              ]
+            },
+            {
+              "name": "Scalding Breath {@recharge}",
+              "note": [
+                "The fume drake exhales a 15-foot cone of scalding steam. Each creature in that area must make a 11 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Fume Drake",
+            "category": "standard",
+            "type": "elemental",
+            "hitDie": "5d6 + 5"
+          },
+          "hpMode": "roll",
+          "hpValue": 22,
+          "hpFormula": "5d6 + 5"
+        },
+        {
+          "id": "hlccc9phmp3hdpd8",
+          "npcId": "36pqmgp8mp3dl1wx",
+          "instanceLabel": "B",
+          "type": "enemy",
+          "name": "Fume Drake B",
+          "baseName": "Fume Drake",
+          "hp": 22,
+          "hpMax": 22,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Bite",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) fire damage."
+              ]
+            },
+            {
+              "name": "Scalding Breath {@recharge}",
+              "note": [
+                "The fume drake exhales a 15-foot cone of scalding steam. Each creature in that area must make a 11 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Fume Drake",
+            "category": "standard",
+            "type": "elemental",
+            "hitDie": "5d6 + 5"
+          },
+          "hpMode": "roll",
+          "hpValue": 22,
+          "hpFormula": "5d6 + 5"
+        }
+      ],
+      "updatedAt": "2026-05-13T03:09:19.916Z"
     }
   ]
 }
