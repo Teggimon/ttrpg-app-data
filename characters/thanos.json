@@ -531,7 +531,41 @@
         "dice": "1d8",
         "type": "slashing",
         "versatile": "1d10"
-      }
+      },
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Martial",
+      "weapon_range": "Melee",
+      "properties": [
+        "Versatile"
+      ]
+    },
+    {
+      "itemId": "752633ae-a479-4fda-b05b-b146aa794a90",
+      "index": "javelin",
+      "name": "Javelin",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Simple",
+      "weapon_range": "Melee",
+      "properties": [
+        "Thrown"
+      ],
+      "weight": 2,
+      "damage": {
+        "dice": "1d6",
+        "type": "piercing"
+      },
+      "description": ""
     }
   ],
   "racialTraits": [
