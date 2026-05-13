@@ -151,9 +151,9 @@
     },
     "conditions": [],
     "actionEconomy": {
-      "action": 0,
-      "bonusAction": 0,
-      "reaction": 0
+      "action": 1,
+      "bonusAction": 1,
+      "reaction": 1
     },
     "classAbilities": [
       {
