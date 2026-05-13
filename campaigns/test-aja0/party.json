@@ -1,0 +1,19 @@
+{
+  "players": [
+    {
+      "github": "teggimon",
+      "characters": [
+        {
+          "characterId": "6851127a-ea46-4507-a112-7f718b89ee1b",
+          "name": "Thanos",
+          "class": "Fighter 1",
+          "level": 1,
+          "hpCurrent": 11,
+          "hpMax": 11,
+          "active": true,
+          "inCampaign": true
+        }
+      ]
+    }
+  ]
+}
