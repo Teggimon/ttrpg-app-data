@@ -564,7 +564,16 @@
       "itemId": "2c37de2f-0d65-45f7-b59b-809df21e4e9b",
       "index": "electrum-pieces",
       "name": "Electrum Pieces",
-      "quantity": 1,
+      "quantity": 113,
+      "isCurrency": true,
+      "equipped": false,
+      "attuned": false
+    },
+    {
+      "itemId": "9eaaa66d-4a15-40e4-9d19-3bfcbc7b09fb",
+      "index": "gold-pieces",
+      "name": "Gold Pieces",
+      "quantity": 5,
       "isCurrency": true,
       "equipped": false
     }
