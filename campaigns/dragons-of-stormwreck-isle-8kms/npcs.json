@@ -113,6 +113,39 @@
       ],
       "source": "srd",
       "sourceBook": "MM"
+    },
+    {
+      "npcId": "8dkhgxm4mp3dkv9i",
+      "name": "Fire Snake",
+      "type": "elemental",
+      "cr": "1",
+      "hp": 22,
+      "hitDie": "5d8",
+      "ac": 14,
+      "initiative": 2,
+      "category": "standard",
+      "actions": [
+        {
+          "name": "Multiattack",
+          "desc": [
+            "The snake makes two attacks: one with its bite and one with its tail."
+          ]
+        },
+        {
+          "name": "Bite",
+          "desc": [
+            "mw 3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 3 (1d6) fire damage."
+          ]
+        },
+        {
+          "name": "Tail",
+          "desc": [
+            "mw 3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage plus 3 (1d6) fire damage."
+          ]
+        }
+      ],
+      "source": "srd",
+      "sourceBook": "MM"
     }
   ]
 }
