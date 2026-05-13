@@ -541,6 +541,14 @@
         "type": "piercing"
       },
       "description": ""
+    },
+    {
+      "itemId": "d522e15f-f33a-4140-8df2-3e667301af01",
+      "index": "copper-pieces",
+      "name": "Copper Pieces",
+      "quantity": 7,
+      "isCurrency": true,
+      "equipped": false
     }
   ],
   "racialTraits": [
