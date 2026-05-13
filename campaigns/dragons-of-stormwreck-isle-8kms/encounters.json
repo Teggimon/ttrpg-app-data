@@ -334,7 +334,7 @@
     },
     {
       "encounterId": "8kmnnv3emp3h1xqh",
-      "name": "Opt 3 Encounter",
+      "name": "Opt 3 Combat",
       "defeated": false,
       "status": "prepared",
       "enemyCount": 8,
@@ -356,7 +356,7 @@
       ],
       "combatants": [
         {
-          "id": "spd2vor6mp3h1xqg",
+          "id": "wailz5eamp3h28to",
           "npcId": "13leth3smp3cpmvm",
           "instanceLabel": "A",
           "type": "enemy",
@@ -397,7 +397,7 @@
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "fgmdm20nmp3h1xqg",
+          "id": "tq2men5bmp3h28to",
           "npcId": "13leth3smp3cpmvm",
           "instanceLabel": "B",
           "type": "enemy",
@@ -438,7 +438,7 @@
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "h0oa2sclmp3h1xqg",
+          "id": "i2n5498wmp3h28to",
           "npcId": "13leth3smp3cpmvm",
           "instanceLabel": "C",
           "type": "enemy",
@@ -479,7 +479,7 @@
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "7enwdu69mp3h1xqg",
+          "id": "ex51matkmp3h28to",
           "npcId": "13leth3smp3cpmvm",
           "instanceLabel": "D",
           "type": "enemy",
@@ -520,7 +520,7 @@
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "b0nztw5mmp3h1xqg",
+          "id": "2ngvbm1emp3h28to",
           "npcId": "13leth3smp3cpmvm",
           "instanceLabel": "E",
           "type": "enemy",
@@ -561,7 +561,7 @@
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "270jr0b2mp3h1xqg",
+          "id": "kl2tkagvmp3h28to",
           "npcId": "13leth3smp3cpmvm",
           "instanceLabel": "F",
           "type": "enemy",
@@ -602,7 +602,7 @@
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "kg2hfpwmmp3h1xqh",
+          "id": "v9ppv442mp3h28to",
           "npcId": "tt1biexcmp3cq2z9",
           "instanceLabel": "A",
           "type": "enemy",
@@ -643,7 +643,7 @@
           "hpFormula": "3d6 - 3"
         },
         {
-          "id": "a8yahvaimp3h1xqh",
+          "id": "s5yqztr6mp3h28to",
           "npcId": "tt1biexcmp3cq2z9",
           "instanceLabel": "B",
           "type": "enemy",
@@ -684,7 +684,7 @@
           "hpFormula": "3d6 - 3"
         }
       ],
-      "updatedAt": "2026-05-13T03:00:10.889Z"
+      "updatedAt": "2026-05-13T03:00:25.260Z"
     }
   ]
 }
