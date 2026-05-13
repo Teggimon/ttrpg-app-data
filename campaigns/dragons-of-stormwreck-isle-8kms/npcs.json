@@ -80,6 +80,39 @@
       ],
       "source": "srd",
       "sourceBook": "MM"
+    },
+    {
+      "npcId": "8zpmul5wmp3cqu6l",
+      "name": "Owlbear",
+      "type": "monstrosity",
+      "cr": "3",
+      "hp": 59,
+      "hitDie": "7d10 + 21",
+      "ac": 13,
+      "initiative": 1,
+      "category": "standard",
+      "actions": [
+        {
+          "name": "Multiattack",
+          "desc": [
+            "The owlbear makes two attacks: one with its beak and one with its claws."
+          ]
+        },
+        {
+          "name": "Beak",
+          "desc": [
+            "mw 7 to hit, reach 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage."
+          ]
+        },
+        {
+          "name": "Claws",
+          "desc": [
+            "mw 7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage."
+          ]
+        }
+      ],
+      "source": "srd",
+      "sourceBook": "MM"
     }
   ]
 }
