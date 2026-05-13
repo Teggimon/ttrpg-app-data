@@ -17,7 +17,7 @@
       {
         "name": "Fighter",
         "index": "fighter",
-        "level": 3,
+        "level": 4,
         "subclass": "Battle Master"
       }
     ],
@@ -98,7 +98,7 @@
   },
   "stats": {
     "abilityScores": {
-      "str": 18,
+      "str": 20,
       "dex": 11,
       "con": 14,
       "int": 12,
@@ -140,8 +140,8 @@
     ]
   },
   "combat": {
-    "hpMax": 29,
-    "hpCurrent": 29,
+    "hpMax": 36,
+    "hpCurrent": 36,
     "hpTemp": 0,
     "ac": 17,
     "initiative": 0,
@@ -680,6 +680,32 @@
         "choices": [],
         "classIndex": "fighter",
         "gainedAtLevel": 3
+      },
+      {
+        "index": "fighter-4-ability-score-improvement",
+        "name": "Ability Score Improvement",
+        "source": "PHB",
+        "className": "Fighter",
+        "level": 4,
+        "desc": [
+          "When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
+        ],
+        "choices": [],
+        "classIndex": "fighter",
+        "gainedAtLevel": 4
+      },
+      {
+        "index": "fighter-4-martial-versatility",
+        "name": "Martial Versatility",
+        "source": "TCE",
+        "className": "Fighter",
+        "level": 4,
+        "desc": [
+          "4th-level fighter {@variantrule optional class features} Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice: Replace a fighting style you know with another fighting style available to fighters. If you know any maneuvers from the fighter archetype, you can replace one maneuver you know with a different maneuver."
+        ],
+        "choices": [],
+        "classIndex": "fighter",
+        "gainedAtLevel": 4
       }
     ],
     "classFeatureChoices": [
