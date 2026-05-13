@@ -265,6 +265,72 @@
         }
       ],
       "updatedAt": "2026-05-13T02:57:35.091Z"
+    },
+    {
+      "encounterId": "rc36iej2mp3gze41",
+      "name": "Opt 2 Combat",
+      "defeated": false,
+      "status": "prepared",
+      "enemyCount": 1,
+      "groups": [
+        {
+          "npcId": "8zpmul5wmp3cqu6l",
+          "quantity": 1,
+          "hpMode": "roll",
+          "hpValue": 59,
+          "hpFormula": "7d10 + 21"
+        }
+      ],
+      "combatants": [
+        {
+          "id": "ovx44xv4mp3gze41",
+          "npcId": "8zpmul5wmp3cqu6l",
+          "instanceLabel": "A",
+          "type": "enemy",
+          "name": "Owlbear A",
+          "baseName": "Owlbear",
+          "hp": 59,
+          "hpMax": 59,
+          "initiativeMod": 1,
+          "ac": 13,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "3",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Multiattack",
+              "note": [
+                "The owlbear makes two attacks: one with its beak and one with its claws."
+              ]
+            },
+            {
+              "name": "Beak",
+              "note": [
+                "mw 7 to hit, reach 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage."
+              ]
+            },
+            {
+              "name": "Claws",
+              "note": [
+                "mw 7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Owlbear",
+            "category": "standard",
+            "type": "monstrosity",
+            "hitDie": "7d10 + 21"
+          },
+          "hpMode": "roll",
+          "hpValue": 59,
+          "hpFormula": "7d10 + 21"
+        }
+      ],
+      "updatedAt": "2026-05-13T02:58:12.145Z"
     }
   ]
 }
