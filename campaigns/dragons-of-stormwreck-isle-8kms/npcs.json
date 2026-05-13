@@ -233,6 +233,27 @@
       ],
       "source": "srd",
       "sourceBook": "MM"
+    },
+    {
+      "npcId": "w9lg7xhgmp3ej3cx",
+      "name": "Zombie",
+      "type": "undead",
+      "cr": "1/4",
+      "hp": 22,
+      "hitDie": "3d8 + 9",
+      "ac": 8,
+      "initiative": -2,
+      "category": "standard",
+      "actions": [
+        {
+          "name": "Slam",
+          "desc": [
+            "mw 3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage."
+          ]
+        }
+      ],
+      "source": "srd",
+      "sourceBook": "MM"
     }
   ]
 }
