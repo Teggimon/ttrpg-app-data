@@ -422,19 +422,6 @@
       ],
       "source": "srd",
       "sourceBook": "MM"
-    },
-    {
-      "npcId": "6lj596c5mp3h9qor",
-      "name": "Violet Fungus",
-      "cr": "undefined",
-      "hp": null,
-      "hitDie": "",
-      "ac": null,
-      "initiative": 0,
-      "category": "standard",
-      "actions": [],
-      "source": "srd",
-      "sourceBook": "DoSI"
     }
   ]
 }
