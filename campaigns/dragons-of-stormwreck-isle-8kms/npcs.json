@@ -53,6 +53,33 @@
       ],
       "source": "srd",
       "sourceBook": "MM"
+    },
+    {
+      "npcId": "tt1biexcmp3cq2z9",
+      "name": "Winged Kobold",
+      "type": "humanoid",
+      "cr": "1/4",
+      "hp": 7,
+      "hitDie": "3d6 - 3",
+      "ac": 13,
+      "initiative": 3,
+      "category": "standard",
+      "actions": [
+        {
+          "name": "Dagger",
+          "desc": [
+            "mw 5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+          ]
+        },
+        {
+          "name": "Dropped Rock",
+          "desc": [
+            "rw 5 to hit, one target directly below the kobold. Hit: 6 (1d6 + 3) bludgeoning damage."
+          ]
+        }
+      ],
+      "source": "srd",
+      "sourceBook": "MM"
     }
   ]
 }
