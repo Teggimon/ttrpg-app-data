@@ -108,7 +108,7 @@
     "hpMax": 21,
     "hpCurrent": 21,
     "hpTemp": 0,
-    "ac": 10,
+    "ac": 11,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -207,21 +207,6 @@
       "description": ""
     },
     {
-      "itemId": "c930fb05-41f7-4083-a91d-d92ce9e1d877",
-      "equipped": false,
-      "index": "priests-pack",
-      "name": "priest's pack",
-      "quantity": 1,
-      "groupIndex": 3,
-      "choiceId": "3_0",
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 24
-    },
-    {
       "itemId": "83f51c83-21e2-4378-923b-30373688cf40",
       "equipped": false,
       "index": "shield",
@@ -302,6 +287,143 @@
       "containsValue": 3200,
       "groupIndex": 0,
       "choiceId": "0_0"
+    },
+    {
+      "itemId": "73d1829d-296b-4180-8bb8-408de6380ca7",
+      "index": "backpack",
+      "name": "Backpack",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5,
+      "description": "A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.",
+      "attuned": false,
+      "sourcePack": "priest's pack"
+    },
+    {
+      "itemId": "d04eab90-fc80-4b32-95a8-f046da41fe4b",
+      "index": "blanket",
+      "name": "Blanket",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 3,
+      "description": "",
+      "attuned": false,
+      "sourcePack": "priest's pack"
+    },
+    {
+      "itemId": "9f335477-cabd-458b-a2e5-09630a74f567",
+      "index": "candle",
+      "name": "Candle",
+      "source": "PHB",
+      "quantity": 10,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "description": "For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.",
+      "attuned": false,
+      "sourcePack": "priest's pack"
+    },
+    {
+      "itemId": "06c20194-ebce-440d-b54c-2f36391bb04d",
+      "index": "tinderbox",
+      "name": "Tinderbox",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1,
+      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.",
+      "attuned": false,
+      "sourcePack": "priest's pack"
+    },
+    {
+      "itemId": "5a402369-3b68-4b13-a1fb-47833d5a5db1",
+      "index": "rations-1-day",
+      "name": "Rations (1 day)",
+      "source": "PHB",
+      "quantity": 2,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 2,
+      "description": "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.",
+      "attuned": false,
+      "sourcePack": "priest's pack"
+    },
+    {
+      "itemId": "5791e261-e924-4edd-899d-f09f49c33f05",
+      "index": "waterskin",
+      "name": "Waterskin",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5,
+      "description": "A waterskin can hold up to 4 pints of liquid.",
+      "attuned": false,
+      "sourcePack": "priest's pack"
+    },
+    {
+      "itemId": "c11993c9-0e5d-42d9-8508-30770ab411e5",
+      "index": "alms-box",
+      "name": "alms box",
+      "quantity": 1,
+      "equipped": false,
+      "attuned": false,
+      "sourcePack": "priest's pack"
+    },
+    {
+      "itemId": "bc16c440-0044-4027-ae52-113f3d6b0ab2",
+      "index": "block-of-incense",
+      "name": "block of incense",
+      "quantity": 2,
+      "equipped": false,
+      "attuned": false,
+      "sourcePack": "priest's pack"
+    },
+    {
+      "itemId": "50e1210e-27eb-4e23-9e0c-22a37616cbe7",
+      "index": "censer",
+      "name": "censer",
+      "quantity": 1,
+      "equipped": false,
+      "attuned": false,
+      "sourcePack": "priest's pack"
+    },
+    {
+      "itemId": "bef32f1a-df88-4d8f-beae-a70a97e192bf",
+      "index": "vestments",
+      "name": "vestments",
+      "quantity": 1,
+      "equipped": false,
+      "attuned": false,
+      "sourcePack": "priest's pack"
     }
   ],
   "racialTraits": [
