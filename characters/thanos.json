@@ -503,6 +503,31 @@
       "requiresAttunement": true,
       "description": "You gain a +1 bonus to AC and saving throws while wearing this ring.",
       "attuned": true
+    },
+    {
+      "itemId": "5b6d5408-f482-4bf8-b9a7-a9f86c0fdc00",
+      "index": "battleaxe",
+      "name": "Battleaxe",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Martial",
+      "weapon_range": "Melee",
+      "properties": [
+        "Versatile"
+      ],
+      "weight": 4,
+      "damage": {
+        "dice": "1d8",
+        "type": "slashing",
+        "versatile": "1d10"
+      },
+      "description": ""
     }
   ],
   "racialTraits": [
