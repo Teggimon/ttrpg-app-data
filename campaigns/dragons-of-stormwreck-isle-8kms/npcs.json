@@ -320,6 +320,33 @@
       ],
       "source": "srd",
       "sourceBook": "MM"
+    },
+    {
+      "npcId": "t6te1f1jmp3elr6f",
+      "name": "Octopus",
+      "type": "beast",
+      "cr": "0",
+      "hp": 3,
+      "hitDie": "1d6",
+      "ac": 12,
+      "initiative": 2,
+      "category": "standard",
+      "actions": [
+        {
+          "name": "Tentacles",
+          "desc": [
+            "mw 4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape 10). Until this grapple ends, the octopus can't use its tentacles on another target."
+          ]
+        },
+        {
+          "name": "Ink Cloud (Recharges after a Short or Long Rest)",
+          "desc": [
+            "A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action."
+          ]
+        }
+      ],
+      "source": "srd",
+      "sourceBook": "MM"
     }
   ]
 }
