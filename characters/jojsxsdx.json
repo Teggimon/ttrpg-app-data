@@ -213,7 +213,13 @@
       "name": "priest's pack",
       "quantity": 1,
       "groupIndex": 3,
-      "choiceId": "3_0"
+      "choiceId": "3_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 24
     },
     {
       "itemId": "83f51c83-21e2-4378-923b-30373688cf40",
@@ -262,7 +268,13 @@
       "source": "XPHB",
       "quantity": 2,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     },
     {
       "itemId": "97d686a7-a3bd-4d02-9721-9cb1cc441e96",
@@ -272,7 +284,13 @@
       "source": "XPHB",
       "quantity": 1,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 4
     },
     {
       "itemId": "b328bc2d-8d78-497a-b7ad-8a9c372d7ea7",
