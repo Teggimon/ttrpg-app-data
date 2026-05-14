@@ -659,7 +659,7 @@
       "index": "rations-1-day",
       "name": "Rations (1 day)",
       "source": "PHB",
-      "quantity": 10,
+      "quantity": 11,
       "equipped": false,
       "equipment_category": {
         "index": "adventuring-gear",
