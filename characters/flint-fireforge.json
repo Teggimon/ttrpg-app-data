@@ -713,7 +713,8 @@
       "weight": 5,
       "description": "A waterskin can hold up to 4 pints of liquid.",
       "attuned": false,
-      "sourcePack": "dungeoneer's pack"
+      "sourcePack": "dungeoneer's pack",
+      "inventoryLabelId": "5012f603-8432-455f-9c0c-908b08a761a9"
     },
     {
       "itemId": "959a3ca1-38b1-4943-a63f-f35a47108c57",
