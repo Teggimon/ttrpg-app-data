@@ -132,7 +132,7 @@
     "hpMax": 18,
     "hpCurrent": 18,
     "hpTemp": 0,
-    "ac": 12,
+    "ac": 13,
     "initiative": 0,
     "speed": 25,
     "deathSaves": {
@@ -213,7 +213,7 @@
     },
     {
       "itemId": "77066097-8373-4ca7-bfb9-72f75b6d830f",
-      "equipped": false,
+      "equipped": true,
       "index": "leather-armor",
       "name": "Leather Armor",
       "source": "PHB",
