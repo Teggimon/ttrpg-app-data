@@ -376,7 +376,8 @@
       "weight": 0.002,
       "description": "Most commonly found inside a Ball Bearings (Bag of 1,000).",
       "attuned": false,
-      "sourcePack": "Ball Bearings (bag of 1,000)"
+      "sourcePack": "Ball Bearings (bag of 1,000)",
+      "inventoryLabelId": "58bb3183-7204-4d44-ad62-6fe4f6b6577a"
     },
     {
       "itemId": "a6452591-6bbf-4b29-aed7-c07a5cd8da4c",
@@ -659,7 +660,7 @@
       "index": "rations-1-day",
       "name": "Rations (1 day)",
       "source": "PHB",
-      "quantity": 11,
+      "quantity": 15,
       "equipped": false,
       "equipment_category": {
         "index": "adventuring-gear",
