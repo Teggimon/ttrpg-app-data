@@ -415,23 +415,6 @@
       "equipment_category_index": "ammunition",
       "weight": 0.075,
       "description": ""
-    },
-    {
-      "itemId": "132c7322-1e17-403e-9b9e-c616a916f60b",
-      "index": "crossbow-bolt",
-      "name": "Crossbow Bolt",
-      "source": "PHB",
-      "quantity": 20,
-      "equipped": false,
-      "isAmmo": true,
-      "ammoKind": "bolt",
-      "equipment_category": {
-        "index": "ammunition",
-        "name": "Ammunition"
-      },
-      "equipment_category_index": "ammunition",
-      "weight": 0.075,
-      "description": ""
     }
   ],
   "feats": [],
