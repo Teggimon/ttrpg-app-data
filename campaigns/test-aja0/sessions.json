@@ -6,7 +6,7 @@
       "number": 1,
       "date": "2026-05-13T09:17:36.600Z",
       "status": "live",
-      "duration": 79505,
+      "duration": 79508,
       "players": [],
       "encounters": [
         {
@@ -578,8 +578,8 @@
         }
       ],
       "timerRunning": true,
-      "timerStartedAt": "2026-05-14T11:56:03.237Z",
-      "timerUpdatedAt": "2026-05-14T11:56:03.237Z",
+      "timerStartedAt": "2026-05-14T11:56:05.840Z",
+      "timerUpdatedAt": "2026-05-14T11:56:05.840Z",
       "notes": {
         "sections": [
           {
@@ -590,7 +590,7 @@
           {
             "id": "dm-notes",
             "title": "DM Notes (Private)",
-            "content": "T"
+            "content": "This is a s"
           },
           {
             "id": "loot",
