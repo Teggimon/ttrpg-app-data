@@ -545,23 +545,6 @@
       "sourcePack": "burglar's pack"
     },
     {
-      "itemId": "7e5dcab3-41c0-40c6-bbcf-ba2d58003c6d",
-      "index": "waterskin",
-      "name": "Waterskin",
-      "source": "PHB",
-      "quantity": 1,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 5,
-      "description": "A waterskin can hold up to 4 pints of liquid.",
-      "attuned": false,
-      "sourcePack": "burglar's pack"
-    },
-    {
       "itemId": "0c7ba923-b1ee-4198-9a76-3d09e4b38483",
       "index": "hempen-rope-50-feet",
       "name": "Hempen Rope",
