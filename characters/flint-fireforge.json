@@ -293,7 +293,8 @@
         "name": "Adventuring Gear"
       },
       "equipment_category_index": "adventuring-gear",
-      "weight": 1
+      "weight": 1,
+      "inventoryLabelId": "631154e0-0596-47fa-bce6-8e04e4e38af4"
     },
     {
       "itemId": "fd1100d6-8163-4425-874c-41abd1fa64a8",
