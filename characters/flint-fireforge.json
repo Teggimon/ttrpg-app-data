@@ -303,7 +303,8 @@
       "quantity": 10,
       "custom": true,
       "groupIndex": 1,
-      "choiceId": "1_0"
+      "choiceId": "1_0",
+      "inventoryLabelId": "58bb3183-7204-4d44-ad62-6fe4f6b6577a"
     },
     {
       "itemId": "48097bd3-e887-4748-9ba1-ce27da9bd606",
