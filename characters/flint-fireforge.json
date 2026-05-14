@@ -179,7 +179,8 @@
         "name": "Adventuring Gear"
       },
       "equipment_category_index": "adventuring-gear",
-      "weight": 1
+      "weight": 1,
+      "inventoryLabelId": "631154e0-0596-47fa-bce6-8e04e4e38af4"
     },
     {
       "itemId": "77066097-8373-4ca7-bfb9-72f75b6d830f",
@@ -307,7 +308,7 @@
       "name": "Light Crossbow",
       "source": "PHB",
       "quantity": 1,
-      "equipped": false,
+      "equipped": true,
       "equipment_category": {
         "index": "ranged-weapon",
         "name": "Ranged Weapon"
