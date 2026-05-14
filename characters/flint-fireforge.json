@@ -404,7 +404,7 @@
       "index": "crossbow-bolt",
       "name": "Crossbow Bolt",
       "source": "PHB",
-      "quantity": 50,
+      "quantity": 58,
       "equipped": false,
       "isAmmo": true,
       "ammoKind": "bolt",
