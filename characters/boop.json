@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "owner": "github:Teggimon",
+    "characterId": "e0222cd8-dd4c-48cc-be36-6b62a173f616",
+    "copiedFrom": null,
+    "system": "dnd5e",
+    "version": 1,
+    "lastUpdated": "2026-05-14T13:54:28.221Z"
+  },
+  "identity": {
+    "name": "boop",
+    "race": "Elf",
+    "raceIndex": "elf",
+    "subrace": "High",
+    "subraceIndex": "elf-high",
+    "class": [
+      {
+        "name": "Wizard",
+        "index": "wizard",
+        "level": 1,
+        "subclass": null
+      }
+    ],
+    "background": "Guild Artisan",
+    "backgroundIndex": "guild-artisan",
+    "backgroundFeature": {
+      "name": "Guild Membership",
+      "desc": [
+        "As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings. Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers. You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces."
+      ]
+    },
+    "alignment": "Neutral Good",
+    "xp": 0,
+    "portrait": null,
+    "size": "Medium",
+    "languages": [
+      "common",
+      "elvish"
+    ],
+    "racialOptions": {},
+    "racialTraits": [
+      {
+        "index": "age",
+        "name": "Age",
+        "source": "PHB"
+      },
+      {
+        "index": "size",
+        "name": "Size",
+        "source": "PHB"
+      },
+      {
+        "index": "darkvision",
+        "name": "Darkvision",
+        "source": "PHB"
+      },
+      {
+        "index": "keen-senses",
+        "name": "Keen Senses",
+        "source": "PHB"
+      },
+      {
+        "index": "fey-ancestry",
+        "name": "Fey Ancestry",
+        "source": "PHB"
+      },
+      {
+        "index": "trance",
+        "name": "Trance",
+        "source": "PHB"
+      },
+      {
+        "index": "languages",
+        "name": "Languages",
+        "source": "PHB"
+      },
+      {
+        "index": "elf-weapon-training",
+        "name": "Elf Weapon Training",
+        "source": "PHB"
+      },
+      {
+        "index": "cantrip",
+        "name": "Cantrip",
+        "source": "PHB"
+      },
+      {
+        "index": "extra-language",
+        "name": "Extra Language",
+        "source": "PHB"
+      }
+    ]
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 14,
+      "dex": 11,
+      "con": 7,
+      "int": 18,
+      "wis": 12,
+      "cha": 11
+    },
+    "savingThrows": {
+      "int": {
+        "proficient": true
+      },
+      "wis": {
+        "proficient": true
+      }
+    },
+    "skills": {
+      "investigation": {
+        "proficient": true
+      },
+      "arcana": {
+        "proficient": true
+      },
+      "insight": {
+        "proficient": true
+      },
+      "persuasion": {
+        "proficient": true
+      }
+    },
+    "proficiencies": [
+      "dagger weapon proficiency",
+      "dart weapon proficiency",
+      "sling weapon proficiency",
+      "quarterstaff weapon proficiency",
+      "light crossbow weapon proficiency"
+    ],
+    "damageResistances": []
+  },
+  "combat": {
+    "hpMax": 4,
+    "hpCurrent": 4,
+    "hpTemp": 0,
+    "ac": 10,
+    "initiative": 0,
+    "speed": 30,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [
+    {
+      "itemId": "cae43e76-5e8b-4957-bda1-301c78e1464d",
+      "equipped": false,
+      "index": "explorers-pack",
+      "name": "explorer's pack",
+      "quantity": 1,
+      "groupIndex": 2,
+      "choiceId": "2_1"
+    },
+    {
+      "itemId": "647c713c-d7e7-449a-9e2e-2f20c91dfe3f",
+      "equipped": false,
+      "index": "arcane-focus",
+      "name": "arcane focus",
+      "quantity": 1,
+      "groupIndex": 1,
+      "choiceId": "1_1"
+    },
+    {
+      "itemId": "a2a0934f-451d-4d4b-a91d-1b217f139775",
+      "equipped": false,
+      "index": "dagger",
+      "name": "Dagger",
+      "source": "PHB",
+      "quantity": 1,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Simple",
+      "weapon_range": "Melee",
+      "properties": [
+        "Finesse",
+        "Light",
+        "Thrown"
+      ],
+      "weight": 1,
+      "damage": {
+        "dice": "1d4",
+        "type": "piercing"
+      },
+      "description": ""
+    },
+    {
+      "itemId": "e6d38734-81b0-47e4-aaa7-341711cc3a00",
+      "equipped": false,
+      "index": "spellbook",
+      "name": "spellbook",
+      "quantity": 1,
+      "groupIndex": 3,
+      "choiceId": "3_0"
+    },
+    {
+      "itemId": "ab7f7a2d-073f-4d6c-9e0e-411b3a442bbc",
+      "equipped": false,
+      "index": "artisans-tools",
+      "name": "artisan's tools",
+      "quantity": 1,
+      "custom": true,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "7430d498-03f7-4850-8a99-218b8bdd8fa7",
+      "equipped": false,
+      "index": "letter-of-introduction-from-your-guild",
+      "name": "letter of introduction from your guild",
+      "quantity": 1,
+      "custom": true,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "438089aa-8d15-4c25-9315-64534b6e6513",
+      "equipped": false,
+      "index": "travelers-clothes",
+      "name": "traveler's clothes",
+      "source": "PHB",
+      "quantity": 1,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "70042f4e-92f0-48d5-883d-2a07f6deeedb",
+      "equipped": false,
+      "index": "pouch",
+      "name": "pouch",
+      "source": "PHB",
+      "quantity": 1,
+      "containsValue": 1500,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    }
+  ],
+  "feats": [],
+  "racialTraits": [
+    {
+      "index": "age",
+      "name": "Age",
+      "source": "PHB"
+    },
+    {
+      "index": "size",
+      "name": "Size",
+      "source": "PHB"
+    },
+    {
+      "index": "darkvision",
+      "name": "Darkvision",
+      "source": "PHB"
+    },
+    {
+      "index": "keen-senses",
+      "name": "Keen Senses",
+      "source": "PHB"
+    },
+    {
+      "index": "fey-ancestry",
+      "name": "Fey Ancestry",
+      "source": "PHB"
+    },
+    {
+      "index": "trance",
+      "name": "Trance",
+      "source": "PHB"
+    },
+    {
+      "index": "languages",
+      "name": "Languages",
+      "source": "PHB"
+    },
+    {
+      "index": "elf-weapon-training",
+      "name": "Elf Weapon Training",
+      "source": "PHB"
+    },
+    {
+      "index": "cantrip",
+      "name": "Cantrip",
+      "source": "PHB"
+    },
+    {
+      "index": "extra-language",
+      "name": "Extra Language",
+      "source": "PHB"
+    }
+  ],
+  "spells": {
+    "spellcastingAbility": "int",
+    "slots": {
+      "1": {
+        "total": 2,
+        "used": 0
+      }
+    },
+    "known": [
+      {
+        "id": "acid-splash",
+        "index": "acid-splash",
+        "name": "Acid Splash",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "blade-ward",
+        "index": "blade-ward",
+        "name": "Blade Ward",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "chill-touch",
+        "index": "chill-touch",
+        "name": "Chill Touch",
+        "source": "PHB",
+        "level": 0
+      },
+      {
+        "id": "alarm",
+        "index": "alarm",
+        "name": "Alarm",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "chromatic-orb",
+        "index": "chromatic-orb",
+        "name": "Chromatic Orb",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "color-spray",
+        "index": "color-spray",
+        "name": "Color Spray",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "charm-person",
+        "index": "charm-person",
+        "name": "Charm Person",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "false-life",
+        "index": "false-life",
+        "name": "False Life",
+        "source": "PHB",
+        "level": 1
+      },
+      {
+        "id": "feather-fall",
+        "index": "feather-fall",
+        "name": "Feather Fall",
+        "source": "PHB",
+        "level": 1
+      }
+    ],
+    "prepared": [
+      "alarm",
+      "chromatic-orb",
+      "color-spray",
+      "charm-person",
+      "false-life",
+      "feather-fall"
+    ],
+    "concentration": null
+  },
+  "customContent": {
+    "classFeatures": [
+      {
+        "index": "wizard-1-arcane-recovery",
+        "name": "Arcane Recovery",
+        "source": "PHB",
+        "desc": [
+          "You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher. For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots."
+        ],
+        "classIndex": "wizard",
+        "className": "Wizard",
+        "gainedAtLevel": 1
+      },
+      {
+        "index": "wizard-1-spellcasting",
+        "name": "Spellcasting",
+        "source": "PHB",
+        "desc": [
+          "As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See chapter 10 for the general rules of spellcasting and chapter 11 for the wizard spell list. At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table. At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind. The Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots. For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells. You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list. Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one. Spell Spell You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared. You can use an arcane focus as a spellcasting focus for your wizard spells. Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see \"Your Spellbook\"). The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library. A spellbook doesn't contain cantrips. When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it. Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation. For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells. A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed. You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell. If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place. Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap."
+        ],
+        "classIndex": "wizard",
+        "className": "Wizard",
+        "gainedAtLevel": 1
+      }
+    ],
+    "classFeatureChoices": [],
+    "backgroundFeature": {
+      "name": "Guild Membership",
+      "desc": [
+        "As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings. Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild's coffers. You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild's good graces."
+      ]
+    }
+  },
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "encumbranceTracking": false,
+    "encumbranceMode": "disabled",
+    "attunementLimit": 3,
+    "spellComponents": "all",
+    "concentrationMode": "raw",
+    "cantripScaling": "character",
+    "hitDiceRecovery": "all",
+    "longRestHpRecovery": "full",
+    "longRestDuration": "8h",
+    "shortRestDuration": "1h",
+    "shortRestsPerLongRest": 2,
+    "levellingSystem": "xp",
+    "milestoneMode": false,
+    "multiclassing": "enabled"
+  }
+}
