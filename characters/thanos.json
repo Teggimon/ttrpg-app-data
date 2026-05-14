@@ -432,36 +432,13 @@
       "quantity": 1,
       "weight": 3,
       "description": "+1 Longsword - has a bird of prey on the hilt",
+      "enhancement": 1,
       "equipped": true,
-      "effects": [
-        {
-          "stat": "Attack Roll",
-          "mode": "add",
-          "value": 1,
-          "notes": ""
-        },
-        {
-          "stat": "Damage",
-          "mode": "add",
-          "value": 1,
-          "notes": ""
-        }
-      ],
       "damage": {
         "dice": "1d8",
         "type": "slashing",
         "versatile": "1d10"
-      },
-      "equipment_category": {
-        "index": "melee-weapon",
-        "name": "Melee Weapon"
-      },
-      "equipment_category_index": "melee-weapon",
-      "weapon_category": "Martial",
-      "weapon_range": "Melee",
-      "properties": [
-        "Versatile"
-      ]
+      }
     },
     {
       "itemId": "ffd50320-2e40-41d8-9faf-0564ffd4212e",
