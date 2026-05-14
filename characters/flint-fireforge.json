@@ -417,7 +417,8 @@
       "equipment_category_index": "adventuring-gear",
       "description": "For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.",
       "attuned": false,
-      "sourcePack": "burglar's pack"
+      "sourcePack": "burglar's pack",
+      "inventoryLabelId": "5012f603-8432-455f-9c0c-908b08a761a9"
     },
     {
       "itemId": "e5360914-b964-400b-b192-1921ee84e79f",
