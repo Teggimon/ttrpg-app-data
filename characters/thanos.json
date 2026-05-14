@@ -1,11 +1,11 @@
 {
   "meta": {
     "owner": "github:Teggimon",
-    "characterId": "6851127a-ea46-4507-a112-7f718b89ee1b",
+    "characterId": "09393de5-4667-4037-9107-b87d3f5aa323",
     "copiedFrom": null,
     "system": "dnd5e",
     "version": 1,
-    "lastUpdated": "2026-05-12T11:10:26.028Z"
+    "lastUpdated": "2026-05-14T23:55:21.336Z"
   },
   "identity": {
     "name": "Thanos",
@@ -17,8 +17,8 @@
       {
         "name": "Fighter",
         "index": "fighter",
-        "level": 4,
-        "subclass": "Battle Master"
+        "level": 1,
+        "subclass": null
       }
     ],
     "background": "Soldier",
@@ -30,8 +30,8 @@
       ]
     },
     "alignment": "Chaotic Neutral",
-    "xp": 5165,
-    "portrait": "https://raw.githubusercontent.com/Teggimon/ttrpg-app-data/main/characters/thanos-images/1778584559168-img-1964.png?v=1778584559168",
+    "xp": 0,
+    "portrait": null,
     "size": "Medium",
     "languages": [
       "common",
@@ -82,23 +82,11 @@
         "name": "Languages",
         "source": "PHB"
       }
-    ],
-    "images": [
-      {
-        "id": "1778584559168",
-        "name": "IMG_1964.PNG",
-        "path": "characters/thanos-images/1778584559168-img-1964.png",
-        "url": "https://raw.githubusercontent.com/Teggimon/ttrpg-app-data/main/characters/thanos-images/1778584559168-img-1964.png?v=1778584559168",
-        "type": "image/png",
-        "size": 1128202,
-        "uploadedAt": "2026-05-12T11:15:59.168Z"
-      }
-    ],
-    "subclass": "Battle Master"
+    ]
   },
   "stats": {
     "abilityScores": {
-      "str": 20,
+      "str": 18,
       "dex": 11,
       "con": 14,
       "int": 12,
@@ -114,10 +102,10 @@
       }
     },
     "skills": {
-      "perception": {
+      "animalHandling": {
         "proficient": true
       },
-      "animalHandling": {
+      "perception": {
         "proficient": true
       },
       "athletics": {
@@ -140,37 +128,22 @@
     ]
   },
   "combat": {
-    "hpMax": 36,
-    "hpCurrent": 35,
+    "hpMax": 12,
+    "hpCurrent": 12,
     "hpTemp": 0,
-    "ac": 17,
+    "ac": 10,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
       "successes": 0,
       "failures": 0
     },
-    "conditions": [],
-    "actionEconomy": {
-      "action": 1,
-      "bonusAction": 1,
-      "reaction": 1
-    },
-    "classAbilities": [
-      {
-        "name": "Second Wind",
-        "key": "second-wind",
-        "recharge": "SR",
-        "max": 1,
-        "used": 0
-      }
-    ],
-    "hitDiceAvailable": 0
+    "conditions": []
   },
   "inventory": [
     {
-      "itemId": "af9970e8-e1d3-4688-a222-8fe3fead5058",
-      "equipped": true,
+      "itemId": "1365373d-3e6a-45bc-b374-09c9e38af2d3",
+      "equipped": false,
       "index": "chain-mail",
       "name": "Chain Mail",
       "source": "PHB",
@@ -189,299 +162,12 @@
       "description": "Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets."
     },
     {
-      "itemId": "a7cee65e-b7bc-4084-b57c-2ddfee06230b",
+      "itemId": "82433a04-3f7c-4d82-9db3-83de1399f51f",
       "equipped": false,
-      "index": "insignia-of-rank",
-      "name": "insignia of rank",
-      "quantity": 1,
-      "custom": true,
-      "groupIndex": 0,
-      "choiceId": "0_0",
-      "inventoryLabelId": "52633984-95f7-4ad1-a4e7-8f7961b3a922"
-    },
-    {
-      "itemId": "90d45313-a9df-4063-a57b-cc7879049d07",
-      "equipped": false,
-      "index": "trophy-taken-from-a-fallen-enemy-a-dagger-broken-blade-or-piece-of-a-banner",
-      "name": "trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner)",
-      "quantity": 1,
-      "custom": true,
-      "groupIndex": 0,
-      "choiceId": "0_0",
-      "inventoryLabelId": "52633984-95f7-4ad1-a4e7-8f7961b3a922"
-    },
-    {
-      "itemId": "85e4d914-5cd0-4f4a-82ea-40e3fa4b3a8d",
-      "equipped": false,
-      "index": "common-clothes",
-      "name": "common clothes",
-      "source": "PHB",
-      "quantity": 1,
-      "groupIndex": 0,
-      "choiceId": "0_0",
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 3,
-      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
-    },
-    {
-      "itemId": "7cc94b21-9d04-46ca-9ac7-83607bbe3ec8",
-      "equipped": false,
-      "index": "pouch",
-      "name": "pouch",
-      "source": "PHB",
-      "quantity": 1,
-      "containsValue": 1000,
-      "groupIndex": 0,
-      "choiceId": "0_0",
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 1,
-      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
-    },
-    {
-      "itemId": "0cdaf8c4-5b11-4741-863a-595afd711ab3",
-      "equipped": false,
-      "index": "playing-card-set",
-      "name": "playing card set",
-      "source": "PHB",
-      "quantity": 1,
-      "groupIndex": 1,
-      "choiceId": "1_1",
-      "equipment_category": {
-        "index": "gaming-set",
-        "name": "Gaming Set"
-      },
-      "equipment_category_index": "gaming-set",
-      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
-    },
-    {
-      "itemId": "0ae12f0d-859a-4e36-a389-e162bc923363",
-      "index": "backpack",
-      "name": "Backpack",
-      "source": "PHB",
-      "quantity": 1,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 5,
-      "description": "A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.",
-      "attuned": false,
-      "sourcePack": "dungeoneer's pack",
-      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
-    },
-    {
-      "itemId": "9b0f28f5-0152-4969-9998-5aaf77385b0e",
-      "index": "crowbar",
-      "name": "Crowbar",
-      "source": "PHB",
-      "quantity": 1,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 5,
-      "description": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.",
-      "attuned": false,
-      "sourcePack": "dungeoneer's pack",
-      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
-    },
-    {
-      "itemId": "1f1114b7-8a69-428f-bd49-b955af93b94b",
-      "index": "hammer",
-      "name": "Hammer",
-      "source": "PHB",
-      "quantity": 1,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 3,
-      "description": "",
-      "attuned": false,
-      "sourcePack": "dungeoneer's pack",
-      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
-    },
-    {
-      "itemId": "c205729b-aaca-4012-89d1-8aa0063c0f44",
-      "index": "piton",
-      "name": "Piton",
-      "source": "PHB",
-      "quantity": 10,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 0.25,
-      "description": "",
-      "attuned": false,
-      "sourcePack": "dungeoneer's pack",
-      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
-    },
-    {
-      "itemId": "af23311f-bed7-43db-8636-50bbb593547c",
-      "index": "torch",
-      "name": "Torch",
-      "source": "PHB",
-      "quantity": 10,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 1,
-      "description": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.",
-      "attuned": false,
-      "sourcePack": "dungeoneer's pack",
-      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
-    },
-    {
-      "itemId": "e333481c-1f3f-4137-935f-9580f1de3909",
-      "index": "tinderbox",
-      "name": "Tinderbox",
-      "source": "PHB",
-      "quantity": 1,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 1,
-      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torchÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂor anything else with abundant, exposed fuelÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂtakes an action. Lighting any other fire takes 1 minute.",
-      "attuned": false,
-      "sourcePack": "dungeoneer's pack",
-      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5"
-    },
-    {
-      "itemId": "3208cb0d-dc0d-4612-b648-38303befd263",
-      "index": "rations-1-day",
-      "name": "Rations (1 day)",
-      "source": "PHB",
-      "quantity": 10,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 2,
-      "description": "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.",
-      "attuned": false,
-      "sourcePack": "dungeoneer's pack"
-    },
-    {
-      "itemId": "784c1e28-7454-4925-ae87-8b4cf769cdd1",
-      "index": "waterskin",
-      "name": "Waterskin",
-      "source": "PHB",
-      "quantity": 1,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 5,
-      "description": "A waterskin can hold up to 4 pints of liquid.",
-      "attuned": false,
-      "sourcePack": "dungeoneer's pack"
-    },
-    {
-      "itemId": "3d81da5e-a5f8-41fb-b1a0-9bdc47cade13",
-      "index": "hempen-rope-50-feet",
-      "name": "Hempen Rope",
-      "source": "PHB",
-      "quantity": 50,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 0.2,
-      "description": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a 17 Strength check.",
-      "attuned": false,
-      "sourcePack": "dungeoneer's pack",
-      "inventoryLabelId": "84328044-2e49-45dc-8e7f-afc56a6c7fe5",
-      "quantityUnit": "ft",
-      "quantityStep": 50,
-      "originalBundleName": "Hempen Rope (50 feet)"
-    },
-    {
-      "itemId": "4020289d-d37a-4acd-a462-d2ab99898633",
-      "index": "longsword",
-      "name": "Talon",
-      "type": "Weapon",
-      "quantity": 1,
-      "weight": 3,
-      "description": "+1 Longsword - has a bird of prey on the hilt",
-      "enhancement": 1,
-      "equipped": true,
-      "damage": {
-        "dice": "1d8",
-        "type": "slashing",
-        "versatile": "1d10"
-      },
-      "equipment_category": {
-        "index": "melee-weapon",
-        "name": "Melee Weapon"
-      },
-      "equipment_category_index": "melee-weapon",
-      "weapon_category": "Martial",
-      "weapon_range": "Melee",
-      "properties": [
-        "Versatile"
-      ]
-    },
-    {
-      "itemId": "ffd50320-2e40-41d8-9faf-0564ffd4212e",
-      "index": "ring-of-protection",
-      "name": "Ring of Protection",
-      "source": "DMG",
-      "quantity": 1,
-      "equipped": true,
-      "equipment_category": {
-        "index": "magic-item",
-        "name": "Magic Item"
-      },
-      "equipment_category_index": "magic-item",
-      "rarity": "rare",
-      "requiresAttunement": true,
-      "description": "You gain a +1 bonus to AC and saving throws while wearing this ring.",
-      "attuned": true
-    },
-    {
-      "itemId": "5b6d5408-f482-4bf8-b9a7-a9f86c0fdc00",
       "index": "battleaxe",
-      "name": "Hew",
-      "type": "Weapon",
+      "name": "Battleaxe",
+      "source": "PHB",
       "quantity": 1,
-      "weight": 4,
-      "description": "A +1 Battleaxe that was found as part of Venomfangs hoard in Thundertree. -LMoP",
-      "enhancement": 1,
-      "equipped": true,
-      "damage": {
-        "dice": "1d8",
-        "type": "slashing",
-        "versatile": "1d10"
-      },
       "equipment_category": {
         "index": "melee-weapon",
         "name": "Melee Weapon"
@@ -491,15 +177,47 @@
       "weapon_range": "Melee",
       "properties": [
         "Versatile"
-      ]
+      ],
+      "weight": 4,
+      "damage": {
+        "dice": "1d8",
+        "type": "slashing",
+        "versatile": "1d10"
+      },
+      "description": ""
     },
     {
-      "itemId": "752633ae-a479-4fda-b05b-b146aa794a90",
-      "index": "javelin",
-      "name": "Javelin",
+      "itemId": "83cf3386-65d4-4e10-9cb9-d29a65b44aba",
+      "equipped": false,
+      "index": "longsword",
+      "name": "Longsword",
       "source": "PHB",
-      "quantity": 6,
-      "equipped": true,
+      "quantity": 1,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Martial",
+      "weapon_range": "Melee",
+      "properties": [
+        "Versatile"
+      ],
+      "weight": 3,
+      "damage": {
+        "dice": "1d8",
+        "type": "slashing",
+        "versatile": "1d10"
+      },
+      "description": ""
+    },
+    {
+      "itemId": "0e86c0b2-b463-49f1-a8e2-d8d2ddaf142b",
+      "equipped": false,
+      "index": "handaxe",
+      "name": "Handaxe",
+      "source": "PHB",
+      "quantity": 2,
       "equipment_category": {
         "index": "melee-weapon",
         "name": "Melee Weapon"
@@ -508,60 +226,78 @@
       "weapon_category": "Simple",
       "weapon_range": "Melee",
       "properties": [
+        "Light",
         "Thrown"
       ],
       "weight": 2,
       "damage": {
         "dice": "1d6",
-        "type": "piercing"
+        "type": "slashing"
       },
       "description": ""
     },
     {
-      "itemId": "d522e15f-f33a-4140-8df2-3e667301af01",
-      "index": "copper-pieces",
-      "name": "Copper Pieces",
-      "quantity": 722,
-      "isCurrency": true,
+      "itemId": "a292d670-9146-42a3-bb42-1f8c6349d8e3",
       "equipped": false,
-      "attuned": false
-    },
-    {
-      "itemId": "11e42edf-4bf1-4da4-be5b-1682cf615fe8",
-      "index": "silver-pieces",
-      "name": "Silver Pieces",
-      "quantity": 531,
-      "isCurrency": true,
-      "equipped": false,
-      "attuned": false
-    },
-    {
-      "itemId": "2c37de2f-0d65-45f7-b59b-809df21e4e9b",
-      "index": "electrum-pieces",
-      "name": "Electrum Pieces",
-      "quantity": 113,
-      "isCurrency": true,
-      "equipped": false,
-      "attuned": false
-    },
-    {
-      "itemId": "9eaaa66d-4a15-40e4-9d19-3bfcbc7b09fb",
-      "index": "gold-pieces",
-      "name": "Gold Pieces",
-      "quantity": 527,
-      "isCurrency": true,
-      "equipped": false,
-      "attuned": false
-    },
-    {
-      "itemId": "cd219fed-50c0-44e8-a4e1-189a63151547",
-      "index": "platinum-pieces",
-      "name": "Platinum Pieces",
+      "index": "dungeoneers-pack",
+      "name": "dungeoneer's pack",
       "quantity": 1,
-      "isCurrency": true,
-      "equipped": false
+      "groupIndex": 3,
+      "choiceId": "3_0"
+    },
+    {
+      "itemId": "027d5e96-e476-4e50-a889-ee236b7dadb3",
+      "equipped": false,
+      "index": "playing-card-set",
+      "name": "playing card set",
+      "source": "PHB",
+      "quantity": 1,
+      "groupIndex": 1,
+      "choiceId": "1_1"
+    },
+    {
+      "itemId": "2550474b-ae42-465a-ae74-ecea5af0ae6a",
+      "equipped": false,
+      "index": "insignia-of-rank",
+      "name": "insignia of rank",
+      "quantity": 1,
+      "custom": true,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "f1b0b5c1-5667-4217-a291-be3d0874ac8b",
+      "equipped": false,
+      "index": "trophy-taken-from-a-fallen-enemy-a-dagger-broken-blade-or-piece-of-a-banner",
+      "name": "trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner)",
+      "quantity": 1,
+      "custom": true,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "2cba0db4-a208-4752-aab5-6017864677c5",
+      "equipped": false,
+      "index": "common-clothes",
+      "name": "common clothes",
+      "source": "PHB",
+      "quantity": 1,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "08d19030-59f7-4d81-94bd-067523cc0b87",
+      "equipped": false,
+      "index": "pouch",
+      "name": "pouch",
+      "source": "PHB",
+      "quantity": 1,
+      "containsValue": 1000,
+      "groupIndex": 0,
+      "choiceId": "0_0"
     }
   ],
+  "feats": [],
   "racialTraits": [
     {
       "index": "age",
@@ -601,6 +337,7 @@
   "spells": {
     "spellcastingAbility": null,
     "slots": {},
+    "pactSlots": {},
     "known": [],
     "prepared": [],
     "concentration": null
@@ -628,58 +365,6 @@
         "classIndex": "fighter",
         "className": "Fighter",
         "gainedAtLevel": 1
-      },
-      {
-        "index": "fighter-2-action-surge",
-        "name": "Action Surge",
-        "source": "PHB",
-        "className": "Fighter",
-        "level": 2,
-        "desc": [
-          "Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action. Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn."
-        ],
-        "choices": [],
-        "classIndex": "fighter",
-        "gainedAtLevel": 2
-      },
-      {
-        "index": "fighter-3-martial-archetype",
-        "name": "Martial Archetype",
-        "source": "PHB",
-        "className": "Fighter",
-        "level": 3,
-        "desc": [
-          "At 3rd level, you choose an archetype from the list available that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level."
-        ],
-        "choices": [],
-        "classIndex": "fighter",
-        "gainedAtLevel": 3
-      },
-      {
-        "index": "fighter-4-ability-score-improvement",
-        "name": "Ability Score Improvement",
-        "source": "PHB",
-        "className": "Fighter",
-        "level": 4,
-        "desc": [
-          "When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
-        ],
-        "choices": [],
-        "classIndex": "fighter",
-        "gainedAtLevel": 4
-      },
-      {
-        "index": "fighter-4-martial-versatility",
-        "name": "Martial Versatility",
-        "source": "TCE",
-        "className": "Fighter",
-        "level": 4,
-        "desc": [
-          "4th-level fighter {@variantrule optional class features} Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice: Replace a fighting style you know with another fighting style available to fighters. If you know any maneuvers from the fighter archetype, you can replace one maneuver you know with a different maneuver."
-        ],
-        "choices": [],
-        "classIndex": "fighter",
-        "gainedAtLevel": 4
       }
     ],
     "classFeatureChoices": [
@@ -724,39 +409,19 @@
     "general": ""
   },
   "settings": {
-    "encumbranceTracking": true,
-    "encumbranceMode": "variant",
+    "encumbranceTracking": false,
+    "encumbranceMode": "disabled",
     "attunementLimit": 3,
-    "spellComponents": "ignore-material",
+    "spellComponents": "all",
     "concentrationMode": "raw",
     "cantripScaling": "character",
-    "hitDiceRecovery": "half",
+    "hitDiceRecovery": "all",
     "longRestHpRecovery": "full",
     "longRestDuration": "8h",
     "shortRestDuration": "1h",
     "shortRestsPerLongRest": 2,
     "levellingSystem": "xp",
     "milestoneMode": false,
-    "multiclassing": "enabled",
-    "inventoryLabels": [
-      {
-        "id": "04a58030-7217-443a-89b5-69bfeefc20e7",
-        "name": "Weapons & Armour"
-      },
-      {
-        "id": "52633984-95f7-4ad1-a4e7-8f7961b3a922",
-        "name": "Treasure"
-      },
-      {
-        "id": "84328044-2e49-45dc-8e7f-afc56a6c7fe5",
-        "name": "Tools"
-      }
-    ],
-    "importedCampaignRules": {
-      "dmUser": "teggimon",
-      "campaignSlug": "test-aja0",
-      "campaignName": "Test",
-      "importedAt": "2026-05-14T11:19:17.008Z"
-    }
+    "multiclassing": "enabled"
   }
 }
