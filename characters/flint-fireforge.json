@@ -372,6 +372,32 @@
       "custom": true,
       "groupIndex": 1,
       "choiceId": "1_0"
+    },
+    {
+      "itemId": "48097bd3-e887-4748-9ba1-ce27da9bd606",
+      "index": "light-crossbow",
+      "name": "Light Crossbow",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "ranged-weapon",
+        "name": "Ranged Weapon"
+      },
+      "equipment_category_index": "ranged-weapon",
+      "weapon_category": "Simple",
+      "weapon_range": "Ranged",
+      "properties": [
+        "Ammunition",
+        "Loading",
+        "Two-Handed"
+      ],
+      "weight": 5,
+      "damage": {
+        "dice": "1d8",
+        "type": "piercing"
+      },
+      "description": ""
     }
   ],
   "feats": [],
