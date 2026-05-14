@@ -607,7 +607,8 @@
       "weight": 5,
       "description": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.",
       "attuned": false,
-      "sourcePack": "dungeoneer's pack"
+      "sourcePack": "dungeoneer's pack",
+      "inventoryLabelId": "5012f603-8432-455f-9c0c-908b08a761a9"
     },
     {
       "itemId": "5b712e55-db23-407b-986c-eccc826bc067",
