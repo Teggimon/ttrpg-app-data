@@ -207,23 +207,6 @@
       "weight": 1
     },
     {
-      "itemId": "e0cec174-9f68-42e3-85a6-74de73e3b173",
-      "equipped": false,
-      "index": "arrow",
-      "name": "Arrow",
-      "source": "PHB",
-      "quantity": 20,
-      "isAmmo": true,
-      "ammoKind": "arrow",
-      "equipment_category": {
-        "index": "ammunition",
-        "name": "Ammunition"
-      },
-      "equipment_category_index": "ammunition",
-      "weight": 0.05,
-      "description": ""
-    },
-    {
       "itemId": "174c6d05-83d0-4b16-b945-4186052edda7",
       "equipped": false,
       "index": "burglars-pack",
@@ -404,7 +387,7 @@
       "index": "crossbow-bolt",
       "name": "Crossbow Bolt",
       "source": "PHB",
-      "quantity": 58,
+      "quantity": 59,
       "equipped": false,
       "isAmmo": true,
       "ammoKind": "bolt",
