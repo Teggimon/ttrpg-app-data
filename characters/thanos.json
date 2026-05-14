@@ -243,7 +243,13 @@
       "name": "dungeoneer's pack",
       "quantity": 1,
       "groupIndex": 3,
-      "choiceId": "3_0"
+      "choiceId": "3_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 61.5
     },
     {
       "itemId": "027d5e96-e476-4e50-a889-ee236b7dadb3",
@@ -253,7 +259,12 @@
       "source": "PHB",
       "quantity": 1,
       "groupIndex": 1,
-      "choiceId": "1_1"
+      "choiceId": "1_1",
+      "equipment_category": {
+        "index": "gaming-set",
+        "name": "Gaming Set"
+      },
+      "equipment_category_index": "gaming-set"
     },
     {
       "itemId": "2550474b-ae42-465a-ae74-ecea5af0ae6a",
@@ -283,7 +294,13 @@
       "source": "PHB",
       "quantity": 1,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 3
     },
     {
       "itemId": "08d19030-59f7-4d81-94bd-067523cc0b87",
@@ -294,7 +311,13 @@
       "quantity": 1,
       "containsValue": 1000,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     }
   ],
   "feats": [],
