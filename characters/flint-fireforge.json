@@ -600,24 +600,6 @@
       "inventoryLabelId": "631154e0-0596-47fa-bce6-8e04e4e38af4"
     },
     {
-      "itemId": "894cfe5c-2b68-4b17-8100-22ae889c492d",
-      "index": "crowbar",
-      "name": "Crowbar",
-      "source": "PHB",
-      "quantity": 1,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 5,
-      "description": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.",
-      "attuned": false,
-      "sourcePack": "dungeoneer's pack",
-      "inventoryLabelId": "5012f603-8432-455f-9c0c-908b08a761a9"
-    },
-    {
       "itemId": "5b712e55-db23-407b-986c-eccc826bc067",
       "index": "hammer",
       "name": "Hammer",
