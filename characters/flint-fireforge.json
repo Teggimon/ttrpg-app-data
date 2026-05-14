@@ -642,7 +642,8 @@
       "weight": 0.25,
       "description": "",
       "attuned": false,
-      "sourcePack": "dungeoneer's pack"
+      "sourcePack": "dungeoneer's pack",
+      "inventoryLabelId": "5012f603-8432-455f-9c0c-908b08a761a9"
     },
     {
       "itemId": "968c05f0-74bd-49f9-a557-2fa573656b49",
