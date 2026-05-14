@@ -109,11 +109,11 @@
       }
     },
     "skills": {
-      "deception": 2,
+      "deception": 1,
       "sleightOfHand": {
         "proficient": true
       },
-      "persuasion": 0,
+      "persuasion": 1,
       "stealth": {
         "proficient": true
       }
