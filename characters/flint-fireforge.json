@@ -233,7 +233,7 @@
     },
     {
       "itemId": "bc20c3b0-6a1d-4985-8607-cfdda1d6cb45",
-      "equipped": false,
+      "equipped": true,
       "index": "dagger",
       "name": "Dagger",
       "source": "PHB",
