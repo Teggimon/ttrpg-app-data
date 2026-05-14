@@ -132,7 +132,7 @@
     "hpMax": 18,
     "hpCurrent": 18,
     "hpTemp": 0,
-    "ac": 10,
+    "ac": 12,
     "initiative": 0,
     "speed": 25,
     "deathSaves": {
@@ -144,7 +144,7 @@
   "inventory": [
     {
       "itemId": "bf9a96c7-284c-432a-b1e6-b074cfab3728",
-      "equipped": false,
+      "equipped": true,
       "index": "rapier",
       "name": "Rapier",
       "source": "PHB",
