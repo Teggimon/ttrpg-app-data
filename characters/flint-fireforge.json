@@ -113,9 +113,7 @@
       "sleightOfHand": {
         "proficient": true
       },
-      "persuasion": {
-        "proficient": true
-      },
+      "persuasion": 0,
       "stealth": {
         "proficient": true
       }
