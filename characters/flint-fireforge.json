@@ -468,7 +468,8 @@
       "weight": 0.25,
       "description": "",
       "attuned": false,
-      "sourcePack": "burglar's pack"
+      "sourcePack": "burglar's pack",
+      "inventoryLabelId": "5012f603-8432-455f-9c0c-908b08a761a9"
     },
     {
       "itemId": "2cbe39e4-dc83-4590-9b19-3a78777a7c06",
