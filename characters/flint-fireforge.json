@@ -386,7 +386,8 @@
       "quantity": 1,
       "equipped": false,
       "attuned": false,
-      "sourcePack": "burglar's pack"
+      "sourcePack": "burglar's pack",
+      "inventoryLabelId": "58bb3183-7204-4d44-ad62-6fe4f6b6577a"
     },
     {
       "itemId": "7a417fde-b019-4c28-bd22-585f24ebd2c9",
