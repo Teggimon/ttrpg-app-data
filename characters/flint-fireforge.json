@@ -167,31 +167,6 @@
       "description": ""
     },
     {
-      "itemId": "a21d31e3-0a10-44bd-be0c-6dae22d0e707",
-      "equipped": false,
-      "index": "shortbow",
-      "name": "Shortbow",
-      "source": "PHB",
-      "quantity": 1,
-      "equipment_category": {
-        "index": "ranged-weapon",
-        "name": "Ranged Weapon"
-      },
-      "equipment_category_index": "ranged-weapon",
-      "weapon_category": "Simple",
-      "weapon_range": "Ranged",
-      "properties": [
-        "Ammunition",
-        "Two-Handed"
-      ],
-      "weight": 2,
-      "damage": {
-        "dice": "1d6",
-        "type": "piercing"
-      },
-      "description": ""
-    },
-    {
       "itemId": "91c7126f-64d8-4347-8be9-f3a094b7f621",
       "equipped": false,
       "index": "quiver",
