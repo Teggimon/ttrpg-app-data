@@ -695,7 +695,8 @@
       "weight": 2,
       "description": "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.",
       "attuned": false,
-      "sourcePack": "dungeoneer's pack"
+      "sourcePack": "dungeoneer's pack",
+      "inventoryLabelId": "5012f603-8432-455f-9c0c-908b08a761a9"
     },
     {
       "itemId": "302d008b-b2e2-478b-a071-b6a254a6492e",
