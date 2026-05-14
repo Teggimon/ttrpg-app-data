@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "owner": "github:Teggimon",
+    "characterId": "da734052-0df4-4ca9-a83d-347275514814",
+    "copiedFrom": null,
+    "system": "dnd5e",
+    "version": 1,
+    "lastUpdated": "2026-05-14T11:45:24.536Z"
+  },
+  "identity": {
+    "name": "Flint Fireforge",
+    "race": "Dwarf",
+    "raceIndex": "dwarf",
+    "subrace": "Hill",
+    "subraceIndex": "dwarf-hill",
+    "class": [
+      {
+        "name": "Rogue",
+        "index": "rogue",
+        "level": 1,
+        "subclass": null
+      }
+    ],
+    "background": "Charlatan",
+    "backgroundIndex": "charlatan",
+    "backgroundFeature": {
+      "name": "False Identity",
+      "desc": [
+        "You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy."
+      ]
+    },
+    "alignment": "Chaotic Neutral",
+    "xp": 0,
+    "portrait": null,
+    "size": "Medium",
+    "languages": [
+      "common",
+      "dwarvish"
+    ],
+    "racialOptions": {},
+    "racialTraits": [
+      {
+        "index": "age",
+        "name": "Age",
+        "source": "PHB"
+      },
+      {
+        "index": "size",
+        "name": "Size",
+        "source": "PHB"
+      },
+      {
+        "index": "speed",
+        "name": "Speed",
+        "source": "PHB"
+      },
+      {
+        "index": "darkvision",
+        "name": "Darkvision",
+        "source": "PHB"
+      },
+      {
+        "index": "dwarven-resilience",
+        "name": "Dwarven Resilience",
+        "source": "PHB"
+      },
+      {
+        "index": "dwarven-combat-training",
+        "name": "Dwarven Combat Training",
+        "source": "PHB"
+      },
+      {
+        "index": "tool-proficiency",
+        "name": "Tool Proficiency",
+        "source": "PHB"
+      },
+      {
+        "index": "stonecunning",
+        "name": "Stonecunning",
+        "source": "PHB"
+      },
+      {
+        "index": "languages",
+        "name": "Languages",
+        "source": "PHB"
+      },
+      {
+        "index": "dwarven-toughness",
+        "name": "Dwarven Toughness",
+        "source": "PHB"
+      }
+    ]
+  },
+  "stats": {
+    "abilityScores": {
+      "str": 10,
+      "dex": 15,
+      "con": 14,
+      "int": 5,
+      "wis": 13,
+      "cha": 11
+    },
+    "savingThrows": {
+      "dex": {
+        "proficient": true
+      },
+      "int": {
+        "proficient": true
+      }
+    },
+    "skills": {
+      "deception": {
+        "proficient": true
+      },
+      "sleightOfHand": {
+        "proficient": true
+      },
+      "persuasion": {
+        "proficient": true
+      },
+      "stealth": {
+        "proficient": true
+      }
+    },
+    "proficiencies": [
+      "light armor proficiency",
+      "simple weapon proficiency",
+      "hand crossbow weapon proficiency",
+      "longsword weapon proficiency",
+      "rapier weapon proficiency",
+      "shortsword weapon proficiency"
+    ],
+    "damageResistances": []
+  },
+  "combat": {
+    "hpMax": 10,
+    "hpCurrent": 10,
+    "hpTemp": 0,
+    "ac": 10,
+    "initiative": 0,
+    "speed": 25,
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "conditions": []
+  },
+  "inventory": [
+    {
+      "itemId": "bf9a96c7-284c-432a-b1e6-b074cfab3728",
+      "equipped": false,
+      "index": "rapier",
+      "name": "Rapier",
+      "source": "PHB",
+      "quantity": 1,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Martial",
+      "weapon_range": "Melee",
+      "properties": [
+        "Finesse"
+      ],
+      "weight": 2,
+      "damage": {
+        "dice": "1d8",
+        "type": "piercing"
+      },
+      "description": ""
+    },
+    {
+      "itemId": "a21d31e3-0a10-44bd-be0c-6dae22d0e707",
+      "equipped": false,
+      "index": "shortbow",
+      "name": "Shortbow",
+      "source": "PHB",
+      "quantity": 1,
+      "equipment_category": {
+        "index": "ranged-weapon",
+        "name": "Ranged Weapon"
+      },
+      "equipment_category_index": "ranged-weapon",
+      "weapon_category": "Simple",
+      "weapon_range": "Ranged",
+      "properties": [
+        "Ammunition",
+        "Two-Handed"
+      ],
+      "weight": 2,
+      "damage": {
+        "dice": "1d6",
+        "type": "piercing"
+      },
+      "description": ""
+    },
+    {
+      "itemId": "91c7126f-64d8-4347-8be9-f3a094b7f621",
+      "equipped": false,
+      "index": "quiver",
+      "name": "quiver",
+      "quantity": 1,
+      "groupIndex": 1,
+      "choiceId": "1_0"
+    },
+    {
+      "itemId": "e0cec174-9f68-42e3-85a6-74de73e3b173",
+      "equipped": false,
+      "index": "arrow",
+      "name": "Arrow",
+      "source": "PHB",
+      "quantity": 20,
+      "isAmmo": true,
+      "ammoKind": "arrow",
+      "equipment_category": {
+        "index": "ammunition",
+        "name": "Ammunition"
+      },
+      "equipment_category_index": "ammunition",
+      "weight": 0.05,
+      "description": ""
+    },
+    {
+      "itemId": "174c6d05-83d0-4b16-b945-4186052edda7",
+      "equipped": false,
+      "index": "burglars-pack",
+      "name": "burglar's pack",
+      "quantity": 1,
+      "groupIndex": 2,
+      "choiceId": "2_0"
+    },
+    {
+      "itemId": "28e02757-90c8-4a14-a5cc-b29c9e3cf144",
+      "equipped": false,
+      "index": "dungeoneers-pack",
+      "name": "dungeoneer's pack",
+      "quantity": 1,
+      "groupIndex": 2,
+      "choiceId": "2_0"
+    },
+    {
+      "itemId": "77066097-8373-4ca7-bfb9-72f75b6d830f",
+      "equipped": false,
+      "index": "leather-armor",
+      "name": "Leather Armor",
+      "source": "PHB",
+      "quantity": 1,
+      "equipment_category": {
+        "index": "light-armor",
+        "name": "Light Armor"
+      },
+      "equipment_category_index": "light-armor",
+      "armor_class": {
+        "base": 11,
+        "dex_bonus": true
+      },
+      "armor_category": "Light",
+      "weight": 10,
+      "description": "The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials."
+    },
+    {
+      "itemId": "bc20c3b0-6a1d-4985-8607-cfdda1d6cb45",
+      "equipped": false,
+      "index": "dagger",
+      "name": "Dagger",
+      "source": "PHB",
+      "quantity": 2,
+      "equipment_category": {
+        "index": "melee-weapon",
+        "name": "Melee Weapon"
+      },
+      "equipment_category_index": "melee-weapon",
+      "weapon_category": "Simple",
+      "weapon_range": "Melee",
+      "properties": [
+        "Finesse",
+        "Light",
+        "Thrown"
+      ],
+      "weight": 1,
+      "damage": {
+        "dice": "1d4",
+        "type": "piercing"
+      },
+      "description": ""
+    },
+    {
+      "itemId": "49098ebb-0a0b-470b-b8d6-d5b114d221e4",
+      "equipped": false,
+      "index": "thieves-tools",
+      "name": "thieves' tools",
+      "quantity": 1,
+      "groupIndex": 3,
+      "choiceId": "3_0"
+    },
+    {
+      "itemId": "0c8e8d76-e7c3-43da-9726-f09fa75a887b",
+      "equipped": false,
+      "index": "fine-clothes",
+      "name": "fine clothes",
+      "source": "PHB",
+      "quantity": 1,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "4c376060-f8e4-4b0c-8dac-0437a7b84e27",
+      "equipped": false,
+      "index": "disguise-kit",
+      "name": "disguise kit",
+      "source": "PHB",
+      "quantity": 1,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "570d686e-c9a4-42dd-9bcc-667301b2cfc2",
+      "equipped": false,
+      "index": "pouch",
+      "name": "pouch",
+      "source": "PHB",
+      "quantity": 1,
+      "containsValue": 1500,
+      "groupIndex": 0,
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "fd1100d6-8163-4425-874c-41abd1fa64a8",
+      "equipped": false,
+      "index": "stoppered-bottles-filled-with-colored-liquid",
+      "name": "stoppered bottles filled with colored liquid",
+      "quantity": 10,
+      "custom": true,
+      "groupIndex": 1,
+      "choiceId": "1_0"
+    }
+  ],
+  "feats": [],
+  "racialTraits": [
+    {
+      "index": "age",
+      "name": "Age",
+      "source": "PHB"
+    },
+    {
+      "index": "size",
+      "name": "Size",
+      "source": "PHB"
+    },
+    {
+      "index": "speed",
+      "name": "Speed",
+      "source": "PHB"
+    },
+    {
+      "index": "darkvision",
+      "name": "Darkvision",
+      "source": "PHB"
+    },
+    {
+      "index": "dwarven-resilience",
+      "name": "Dwarven Resilience",
+      "source": "PHB"
+    },
+    {
+      "index": "dwarven-combat-training",
+      "name": "Dwarven Combat Training",
+      "source": "PHB"
+    },
+    {
+      "index": "tool-proficiency",
+      "name": "Tool Proficiency",
+      "source": "PHB"
+    },
+    {
+      "index": "stonecunning",
+      "name": "Stonecunning",
+      "source": "PHB"
+    },
+    {
+      "index": "languages",
+      "name": "Languages",
+      "source": "PHB"
+    },
+    {
+      "index": "dwarven-toughness",
+      "name": "Dwarven Toughness",
+      "source": "PHB"
+    }
+  ],
+  "spells": {
+    "spellcastingAbility": null,
+    "slots": {},
+    "known": [],
+    "prepared": [],
+    "concentration": null
+  },
+  "customContent": {
+    "classFeatures": [
+      {
+        "index": "rogue-1-expertise",
+        "name": "Expertise",
+        "source": "PHB",
+        "desc": [
+          "At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit."
+        ],
+        "classIndex": "rogue",
+        "className": "Rogue",
+        "gainedAtLevel": 1
+      },
+      {
+        "index": "rogue-1-sneak-attack",
+        "name": "Sneak Attack",
+        "source": "PHB",
+        "desc": [
+          "Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll. The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table."
+        ],
+        "classIndex": "rogue",
+        "className": "Rogue",
+        "gainedAtLevel": 1
+      },
+      {
+        "index": "rogue-1-thieves-cant",
+        "name": "Thieves' Cant",
+        "source": "PHB",
+        "desc": [
+          "During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly. In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run."
+        ],
+        "classIndex": "rogue",
+        "className": "Rogue",
+        "gainedAtLevel": 1
+      }
+    ],
+    "classFeatureChoices": [],
+    "backgroundFeature": {
+      "name": "False Identity",
+      "desc": [
+        "You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy."
+      ]
+    }
+  },
+  "notes": {
+    "personalityTraits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": "",
+    "appearance": "",
+    "backstory": "",
+    "alliesAndOrganisations": "",
+    "general": ""
+  },
+  "settings": {
+    "encumbranceTracking": false,
+    "encumbranceMode": "disabled",
+    "attunementLimit": 3,
+    "spellComponents": "all",
+    "concentrationMode": "raw",
+    "cantripScaling": "character",
+    "hitDiceRecovery": "all",
+    "longRestHpRecovery": "full",
+    "longRestDuration": "8h",
+    "shortRestDuration": "1h",
+    "shortRestsPerLongRest": 2,
+    "levellingSystem": "xp",
+    "milestoneMode": false,
+    "multiclassing": "enabled"
+  }
+}
