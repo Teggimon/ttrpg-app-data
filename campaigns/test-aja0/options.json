@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "encumbranceMode": "variant",
+    "attunementLimit": 3,
+    "spellComponents": "all",
+    "concentrationMode": "raw",
+    "cantripScaling": "character",
+    "hitDiceRecovery": "all",
+    "longRestHpRecovery": "full",
+    "longRestDuration": "8h",
+    "shortRestDuration": "1h",
+    "shortRestsPerLongRest": 2,
+    "levellingSystem": "xp",
+    "multiclassing": "enabled",
+    "encumbranceTracking": true
+  },
+  "updatedAt": "2026-05-14T10:19:16.495Z"
+}
