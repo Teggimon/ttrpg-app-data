@@ -403,7 +403,8 @@
       "equipment_category_index": "adventuring-gear",
       "description": "",
       "attuned": false,
-      "sourcePack": "burglar's pack"
+      "sourcePack": "burglar's pack",
+      "inventoryLabelId": "58bb3183-7204-4d44-ad62-6fe4f6b6577a"
     },
     {
       "itemId": "3a614c61-df86-4b68-a5ac-8d54e452e6df",
