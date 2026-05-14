@@ -198,7 +198,13 @@
       "name": "quiver",
       "quantity": 1,
       "groupIndex": 1,
-      "choiceId": "1_0"
+      "choiceId": "1_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     },
     {
       "itemId": "e0cec174-9f68-42e3-85a6-74de73e3b173",
@@ -224,7 +230,13 @@
       "name": "burglar's pack",
       "quantity": 1,
       "groupIndex": 2,
-      "choiceId": "2_0"
+      "choiceId": "2_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 44.5
     },
     {
       "itemId": "28e02757-90c8-4a14-a5cc-b29c9e3cf144",
@@ -233,7 +245,13 @@
       "name": "dungeoneer's pack",
       "quantity": 1,
       "groupIndex": 2,
-      "choiceId": "2_0"
+      "choiceId": "2_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 61.5
     },
     {
       "itemId": "77066097-8373-4ca7-bfb9-72f75b6d830f",
@@ -288,7 +306,13 @@
       "name": "thieves' tools",
       "quantity": 1,
       "groupIndex": 3,
-      "choiceId": "3_0"
+      "choiceId": "3_0",
+      "equipment_category": {
+        "index": "tool",
+        "name": "Tool"
+      },
+      "equipment_category_index": "tool",
+      "weight": 1
     },
     {
       "itemId": "0c8e8d76-e7c3-43da-9726-f09fa75a887b",
@@ -298,7 +322,13 @@
       "source": "PHB",
       "quantity": 1,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 6
     },
     {
       "itemId": "4c376060-f8e4-4b0c-8dac-0437a7b84e27",
@@ -308,7 +338,13 @@
       "source": "PHB",
       "quantity": 1,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "tool",
+        "name": "Tool"
+      },
+      "equipment_category_index": "tool",
+      "weight": 3
     },
     {
       "itemId": "570d686e-c9a4-42dd-9bcc-667301b2cfc2",
@@ -319,7 +355,13 @@
       "quantity": 1,
       "containsValue": 1500,
       "groupIndex": 0,
-      "choiceId": "0_0"
+      "choiceId": "0_0",
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1
     },
     {
       "itemId": "fd1100d6-8163-4425-874c-41abd1fa64a8",
