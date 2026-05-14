@@ -17,7 +17,7 @@
       {
         "name": "Rogue",
         "index": "rogue",
-        "level": 1,
+        "level": 2,
         "subclass": null
       }
     ],
@@ -133,8 +133,8 @@
     "damageResistances": []
   },
   "combat": {
-    "hpMax": 10,
-    "hpCurrent": 10,
+    "hpMax": 18,
+    "hpCurrent": 18,
     "hpTemp": 0,
     "ac": 10,
     "initiative": 0,
@@ -430,6 +430,19 @@
         "classIndex": "rogue",
         "className": "Rogue",
         "gainedAtLevel": 1
+      },
+      {
+        "index": "rogue-2-cunning-action",
+        "name": "Cunning Action",
+        "source": "PHB",
+        "className": "Rogue",
+        "level": 2,
+        "desc": [
+          "Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action."
+        ],
+        "choices": [],
+        "classIndex": "rogue",
+        "gainedAtLevel": 2
       }
     ],
     "classFeatureChoices": [],
