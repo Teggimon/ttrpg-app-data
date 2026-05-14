@@ -590,7 +590,8 @@
       "weight": 5,
       "description": "A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.",
       "attuned": false,
-      "sourcePack": "dungeoneer's pack"
+      "sourcePack": "dungeoneer's pack",
+      "inventoryLabelId": "631154e0-0596-47fa-bce6-8e04e4e38af4"
     },
     {
       "itemId": "894cfe5c-2b68-4b17-8100-22ae889c492d",
