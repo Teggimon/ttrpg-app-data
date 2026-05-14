@@ -425,7 +425,7 @@
       "index": "crowbar",
       "name": "Crowbar",
       "source": "PHB",
-      "quantity": 1,
+      "quantity": 2,
       "equipped": false,
       "equipment_category": {
         "index": "adventuring-gear",
