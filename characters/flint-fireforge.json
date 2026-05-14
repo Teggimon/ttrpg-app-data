@@ -435,7 +435,8 @@
       "weight": 5,
       "description": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.",
       "attuned": false,
-      "sourcePack": "burglar's pack"
+      "sourcePack": "burglar's pack",
+      "inventoryLabelId": "5012f603-8432-455f-9c0c-908b08a761a9"
     },
     {
       "itemId": "ce9784cd-088e-4c28-a24a-c467c527d3e5",
