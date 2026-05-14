@@ -734,7 +734,8 @@
       "weight": 0.2,
       "description": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a 17 Strength check.",
       "attuned": false,
-      "sourcePack": "dungeoneer's pack"
+      "sourcePack": "dungeoneer's pack",
+      "inventoryLabelId": "5012f603-8432-455f-9c0c-908b08a761a9"
     }
   ],
   "feats": [],
