@@ -514,23 +514,6 @@
       "inventoryLabelId": "5012f603-8432-455f-9c0c-908b08a761a9"
     },
     {
-      "itemId": "0346769d-cdb8-4fcc-a837-aa2eea3ddfa9",
-      "index": "rations-1-day",
-      "name": "Rations (1 day)",
-      "source": "PHB",
-      "quantity": 5,
-      "equipped": false,
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 2,
-      "description": "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.",
-      "attuned": false,
-      "sourcePack": "burglar's pack"
-    },
-    {
       "itemId": "7fab1603-8772-44f1-b27e-1db7beab35b5",
       "index": "tinderbox",
       "name": "Tinderbox",
