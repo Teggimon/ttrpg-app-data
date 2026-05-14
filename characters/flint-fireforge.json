@@ -182,21 +182,6 @@
       "weight": 1
     },
     {
-      "itemId": "174c6d05-83d0-4b16-b945-4186052edda7",
-      "equipped": false,
-      "index": "burglars-pack",
-      "name": "burglar's pack",
-      "quantity": 1,
-      "groupIndex": 2,
-      "choiceId": "2_0",
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 44.5
-    },
-    {
       "itemId": "28e02757-90c8-4a14-a5cc-b29c9e3cf144",
       "equipped": false,
       "index": "dungeoneers-pack",
@@ -373,6 +358,237 @@
       "equipment_category_index": "ammunition",
       "weight": 0.075,
       "description": ""
+    },
+    {
+      "itemId": "c6ecf045-c1d2-481f-ae65-98a902ede8ab",
+      "index": "backpack",
+      "name": "Backpack",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5,
+      "description": "A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "8f843c9e-6e3a-400a-bf47-c5de0504698c",
+      "index": "ball-bearing",
+      "name": "Ball Bearing",
+      "source": "PHB",
+      "quantity": 1000,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 0.002,
+      "description": "Most commonly found inside a Ball Bearings (Bag of 1,000).",
+      "attuned": false,
+      "sourcePack": "Ball Bearings (bag of 1,000)"
+    },
+    {
+      "itemId": "a6452591-6bbf-4b29-aed7-c07a5cd8da4c",
+      "index": "10-feet-of-string",
+      "name": "10 feet of string",
+      "quantity": 1,
+      "equipped": false,
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "7a417fde-b019-4c28-bd22-585f24ebd2c9",
+      "index": "bell",
+      "name": "Bell",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "description": "",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "3a614c61-df86-4b68-a5ac-8d54e452e6df",
+      "index": "candle",
+      "name": "Candle",
+      "source": "PHB",
+      "quantity": 5,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "description": "For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "e5360914-b964-400b-b192-1921ee84e79f",
+      "index": "crowbar",
+      "name": "Crowbar",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5,
+      "description": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "ce9784cd-088e-4c28-a24a-c467c527d3e5",
+      "index": "hammer",
+      "name": "Hammer",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 3,
+      "description": "",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "c5e10fc1-7a39-42f8-a13c-88fad670f0ef",
+      "index": "piton",
+      "name": "Piton",
+      "source": "PHB",
+      "quantity": 10,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 0.25,
+      "description": "",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "2cbe39e4-dc83-4590-9b19-3a78777a7c06",
+      "index": "hooded-lantern",
+      "name": "Hooded Lantern",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 2,
+      "description": "A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "d1d45336-67fd-4cb8-99a1-baf18dc9edc8",
+      "index": "oil-flask",
+      "name": "Oil (flask)",
+      "source": "PHB",
+      "quantity": 2,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1,
+      "description": "Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "0346769d-cdb8-4fcc-a837-aa2eea3ddfa9",
+      "index": "rations-1-day",
+      "name": "Rations (1 day)",
+      "source": "PHB",
+      "quantity": 5,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 2,
+      "description": "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "7fab1603-8772-44f1-b27e-1db7beab35b5",
+      "index": "tinderbox",
+      "name": "Tinderbox",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 1,
+      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "7e5dcab3-41c0-40c6-bbcf-ba2d58003c6d",
+      "index": "waterskin",
+      "name": "Waterskin",
+      "source": "PHB",
+      "quantity": 1,
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 5,
+      "description": "A waterskin can hold up to 4 pints of liquid.",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
+    },
+    {
+      "itemId": "0c7ba923-b1ee-4198-9a76-3d09e4b38483",
+      "index": "hempen-rope-50-feet",
+      "name": "Hempen Rope",
+      "source": "PHB",
+      "quantity": 50,
+      "quantityUnit": "ft",
+      "quantityStep": 50,
+      "originalBundleName": "Hempen Rope (50 feet)",
+      "equipped": false,
+      "equipment_category": {
+        "index": "adventuring-gear",
+        "name": "Adventuring Gear"
+      },
+      "equipment_category_index": "adventuring-gear",
+      "weight": 0.2,
+      "description": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a 17 Strength check.",
+      "attuned": false,
+      "sourcePack": "burglar's pack"
     }
   ],
   "feats": [],
