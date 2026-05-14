@@ -241,7 +241,8 @@
         "name": "Tool"
       },
       "equipment_category_index": "tool",
-      "weight": 1
+      "weight": 1,
+      "inventoryLabelId": "58bb3183-7204-4d44-ad62-6fe4f6b6577a"
     },
     {
       "itemId": "0c8e8d76-e7c3-43da-9726-f09fa75a887b",
