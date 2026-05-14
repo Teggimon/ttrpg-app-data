@@ -873,6 +873,12 @@
     "shortRestsPerLongRest": 2,
     "levellingSystem": "xp",
     "milestoneMode": false,
-    "multiclassing": "enabled"
+    "multiclassing": "enabled",
+    "inventoryLabels": [
+      {
+        "id": "5012f603-8432-455f-9c0c-908b08a761a9",
+        "name": "Tools"
+      }
+    ]
   }
 }
