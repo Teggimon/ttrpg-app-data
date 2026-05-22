@@ -153,7 +153,15 @@
       "failures": 0
     },
     "conditions": [],
-    "classAbilities": [],
+    "classAbilities": [
+      {
+        "name": "Second Wind",
+        "key": "second-wind",
+        "recharge": "SR",
+        "max": 1,
+        "used": 1
+      }
+    ],
     "actionEconomy": {
       "action": 1,
       "bonusAction": 1,
