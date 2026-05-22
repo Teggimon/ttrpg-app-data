@@ -139,7 +139,15 @@
       "failures": 0
     },
     "conditions": [],
-    "classAbilities": [],
+    "classAbilities": [
+      {
+        "name": "Breath Weapon",
+        "key": "race-breath-weapon",
+        "recharge": "SR",
+        "max": 1,
+        "used": 1
+      }
+    ],
     "actionEconomy": {
       "action": 1,
       "bonusAction": 1,
