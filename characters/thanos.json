@@ -169,7 +169,7 @@
     },
     {
       "itemId": "82433a04-3f7c-4d82-9db3-83de1399f51f",
-      "equipped": false,
+      "equipped": true,
       "index": "battleaxe",
       "name": "Battleaxe",
       "source": "PHB",
