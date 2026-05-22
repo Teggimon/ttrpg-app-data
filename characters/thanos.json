@@ -1,11 +1,12 @@
 {
   "meta": {
     "owner": "github:Teggimon",
-    "characterId": "09393de5-4667-4037-9107-b87d3f5aa323",
+    "characterId": "26004ed7-3394-4091-b9b9-73193341c0b7",
     "copiedFrom": null,
-    "system": "dnd5e",
+    "system": "dnd5e-2014",
+    "rulesEdition": "2014",
     "version": 1,
-    "lastUpdated": "2026-05-14T23:55:21.336Z"
+    "lastUpdated": "2026-05-22T16:32:27.739Z"
   },
   "identity": {
     "name": "Thanos",
@@ -17,6 +18,7 @@
       {
         "name": "Fighter",
         "index": "fighter",
+        "source": "PHB",
         "level": 1,
         "subclass": null
       }
@@ -87,10 +89,10 @@
   "stats": {
     "abilityScores": {
       "str": 18,
-      "dex": 11,
+      "dex": 12,
       "con": 14,
       "int": 12,
-      "wis": 7,
+      "wis": 8,
       "cha": 11
     },
     "savingThrows": {
@@ -115,14 +117,26 @@
         "proficient": true
       }
     },
-    "proficiencies": [
-      "light armor proficiency",
-      "medium armor proficiency",
-      "heavy armor proficiency",
-      "shield armor proficiency",
-      "simple weapon proficiency",
-      "martial weapon proficiency"
-    ],
+    "proficiencies": {
+      "Armour": [
+        "light armor proficiency",
+        "medium armor proficiency",
+        "heavy armor proficiency",
+        "shield armor proficiency"
+      ],
+      "Weapons": [
+        "simple weapon proficiency",
+        "martial weapon proficiency"
+      ],
+      "Tools": [
+        "vehicles (land)",
+        "Playing card set"
+      ],
+      "Languages": [
+        "common",
+        "draconic"
+      ]
+    },
     "damageResistances": [
       "acid"
     ]
@@ -138,17 +152,11 @@
       "successes": 0,
       "failures": 0
     },
-    "conditions": [],
-    "classAbilities": [],
-    "actionEconomy": {
-      "action": 1,
-      "bonusAction": 1,
-      "reaction": 1
-    }
+    "conditions": []
   },
   "inventory": [
     {
-      "itemId": "1365373d-3e6a-45bc-b374-09c9e38af2d3",
+      "itemId": "1cd6519e-7f37-48a0-b521-388eba3a907f",
       "equipped": true,
       "index": "chain-mail",
       "name": "Chain Mail",
@@ -168,10 +176,10 @@
       "description": "Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets."
     },
     {
-      "itemId": "82433a04-3f7c-4d82-9db3-83de1399f51f",
+      "itemId": "96376f27-4fcf-4731-a47e-5c2109457bf2",
       "equipped": true,
-      "index": "battleaxe",
-      "name": "Battleaxe",
+      "index": "greataxe",
+      "name": "Greataxe",
       "source": "PHB",
       "quantity": 1,
       "equipment_category": {
@@ -182,21 +190,21 @@
       "weapon_category": "Martial",
       "weapon_range": "Melee",
       "properties": [
-        "Versatile"
+        "Heavy",
+        "Two-Handed"
       ],
-      "weight": 4,
+      "weight": 7,
       "damage": {
-        "dice": "1d8",
-        "type": "slashing",
-        "versatile": "1d10"
+        "dice": "1d12",
+        "type": "slashing"
       },
       "description": ""
     },
     {
-      "itemId": "83cf3386-65d4-4e10-9cb9-d29a65b44aba",
+      "itemId": "45ba40aa-6271-4138-a2d2-59bdfe6da56c",
       "equipped": true,
-      "index": "longsword",
-      "name": "Longsword",
+      "index": "greatsword",
+      "name": "Greatsword",
       "source": "PHB",
       "quantity": 1,
       "equipment_category": {
@@ -207,19 +215,19 @@
       "weapon_category": "Martial",
       "weapon_range": "Melee",
       "properties": [
-        "Versatile"
+        "Heavy",
+        "Two-Handed"
       ],
-      "weight": 3,
+      "weight": 6,
       "damage": {
-        "dice": "1d8",
-        "type": "slashing",
-        "versatile": "1d10"
+        "dice": "2d6",
+        "type": "slashing"
       },
       "description": ""
     },
     {
-      "itemId": "0e86c0b2-b463-49f1-a8e2-d8d2ddaf142b",
-      "equipped": false,
+      "itemId": "779eaf1d-7a18-4cbc-9b73-f22dcd5636ae",
+      "equipped": true,
       "index": "handaxe",
       "name": "Handaxe",
       "source": "PHB",
@@ -243,37 +251,16 @@
       "description": ""
     },
     {
-      "itemId": "a292d670-9146-42a3-bb42-1f8c6349d8e3",
+      "itemId": "ae534e69-4851-413d-9002-8c948b911dad",
       "equipped": false,
       "index": "dungeoneers-pack",
       "name": "dungeoneer's pack",
       "quantity": 1,
       "groupIndex": 3,
-      "choiceId": "3_0",
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 61.5
+      "choiceId": "3_0"
     },
     {
-      "itemId": "027d5e96-e476-4e50-a889-ee236b7dadb3",
-      "equipped": false,
-      "index": "playing-card-set",
-      "name": "playing card set",
-      "source": "PHB",
-      "quantity": 1,
-      "groupIndex": 1,
-      "choiceId": "1_1",
-      "equipment_category": {
-        "index": "gaming-set",
-        "name": "Gaming Set"
-      },
-      "equipment_category_index": "gaming-set"
-    },
-    {
-      "itemId": "2550474b-ae42-465a-ae74-ecea5af0ae6a",
+      "itemId": "0deaf3dc-309d-4b3e-968d-f74bc5ab0f61",
       "equipped": false,
       "index": "insignia-of-rank",
       "name": "insignia of rank",
@@ -283,7 +270,7 @@
       "choiceId": "0_0"
     },
     {
-      "itemId": "f1b0b5c1-5667-4217-a291-be3d0874ac8b",
+      "itemId": "9d740ec2-4385-4d4b-a9fe-9c26a2801ef6",
       "equipped": false,
       "index": "trophy-taken-from-a-fallen-enemy-a-dagger-broken-blade-or-piece-of-a-banner",
       "name": "trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner)",
@@ -293,23 +280,17 @@
       "choiceId": "0_0"
     },
     {
-      "itemId": "2cba0db4-a208-4752-aab5-6017864677c5",
+      "itemId": "761d4daf-96f0-4c59-bde4-9fa6f4d578a2",
       "equipped": false,
       "index": "common-clothes",
       "name": "common clothes",
       "source": "PHB",
       "quantity": 1,
       "groupIndex": 0,
-      "choiceId": "0_0",
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 3
+      "choiceId": "0_0"
     },
     {
-      "itemId": "08d19030-59f7-4d81-94bd-067523cc0b87",
+      "itemId": "77a8c781-78b5-47e6-bbc7-92ccf348445c",
       "equipped": false,
       "index": "pouch",
       "name": "pouch",
@@ -317,13 +298,17 @@
       "quantity": 1,
       "containsValue": 1000,
       "groupIndex": 0,
-      "choiceId": "0_0",
-      "equipment_category": {
-        "index": "adventuring-gear",
-        "name": "Adventuring Gear"
-      },
-      "equipment_category_index": "adventuring-gear",
-      "weight": 1
+      "choiceId": "0_0"
+    },
+    {
+      "itemId": "04cd5a07-e6e9-4ef8-a53d-15e62fd909cf",
+      "equipped": false,
+      "index": "playing-card-set",
+      "name": "playing card set",
+      "source": "PHB",
+      "quantity": 1,
+      "groupIndex": 1,
+      "choiceId": "1_1"
     }
   ],
   "feats": [],
@@ -438,7 +423,7 @@
     "general": ""
   },
   "settings": {
-    "encumbranceTracking": false,
+    "rulesEdition": "2014",
     "encumbranceMode": "disabled",
     "attunementLimit": 3,
     "spellComponents": "all",
@@ -450,7 +435,8 @@
     "shortRestDuration": "1h",
     "shortRestsPerLongRest": 2,
     "levellingSystem": "xp",
-    "milestoneMode": false,
-    "multiclassing": "enabled"
+    "multiclassing": "enabled",
+    "encumbranceTracking": false,
+    "milestoneMode": false
   }
 }
