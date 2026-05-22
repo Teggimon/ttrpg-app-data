@@ -601,7 +601,7 @@
     "general": ""
   },
   "settings": {
-    "rulesEdition": "2024",
+    "rulesEdition": "2014",
     "encumbranceMode": "disabled",
     "attunementLimit": 3,
     "spellComponents": "all",
@@ -616,5 +616,8 @@
     "multiclassing": "enabled",
     "encumbranceTracking": false,
     "milestoneMode": false
+  },
+  "notesCollapsed": {
+    "Session Notes": true
   }
 }
