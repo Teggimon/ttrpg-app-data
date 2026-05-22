@@ -131,7 +131,7 @@
     "hpMax": 12,
     "hpCurrent": 12,
     "hpTemp": 0,
-    "ac": 10,
+    "ac": 16,
     "initiative": 0,
     "speed": 30,
     "deathSaves": {
@@ -149,7 +149,7 @@
   "inventory": [
     {
       "itemId": "1365373d-3e6a-45bc-b374-09c9e38af2d3",
-      "equipped": false,
+      "equipped": true,
       "index": "chain-mail",
       "name": "Chain Mail",
       "source": "PHB",
@@ -194,7 +194,7 @@
     },
     {
       "itemId": "83cf3386-65d4-4e10-9cb9-d29a65b44aba",
-      "equipped": false,
+      "equipped": true,
       "index": "longsword",
       "name": "Longsword",
       "source": "PHB",
