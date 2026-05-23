@@ -1084,6 +1084,278 @@
         }
       ],
       "updatedAt": "2026-05-23T03:15:27.970Z"
+    },
+    {
+      "encounterId": "nk03joi3mphs1cq5",
+      "name": "Encounter 23/5/2026",
+      "defeated": false,
+      "status": "prepared",
+      "enemyCount": 6,
+      "groups": [
+        {
+          "npcId": "ox7gjg4bmphrztja",
+          "quantity": 4,
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "2d6"
+        },
+        {
+          "npcId": "mfwyb39pmp3ukqy7",
+          "quantity": 2,
+          "hpMode": "fixed",
+          "hpValue": 5,
+          "hpFormula": "2d6 - 2"
+        }
+      ],
+      "combatants": [
+        {
+          "id": "zpq9mxytmphs1cq5",
+          "npcId": "ox7gjg4bmphrztja",
+          "instanceLabel": "A",
+          "type": "enemy",
+          "name": "Goblin A",
+          "baseName": "Goblin",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 2,
+          "ac": 15,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Scimitar",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+              ]
+            },
+            {
+              "name": "Shortbow",
+              "note": [
+                "rw 4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Goblin",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "2d6"
+        },
+        {
+          "id": "zux6oufbmphs1cq5",
+          "npcId": "ox7gjg4bmphrztja",
+          "instanceLabel": "B",
+          "type": "enemy",
+          "name": "Goblin B",
+          "baseName": "Goblin",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 2,
+          "ac": 15,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Scimitar",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+              ]
+            },
+            {
+              "name": "Shortbow",
+              "note": [
+                "rw 4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Goblin",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "2d6"
+        },
+        {
+          "id": "qxma90qymphs1cq5",
+          "npcId": "ox7gjg4bmphrztja",
+          "instanceLabel": "C",
+          "type": "enemy",
+          "name": "Goblin C",
+          "baseName": "Goblin",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 2,
+          "ac": 15,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Scimitar",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+              ]
+            },
+            {
+              "name": "Shortbow",
+              "note": [
+                "rw 4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Goblin",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "2d6"
+        },
+        {
+          "id": "770u11nbmphs1cq5",
+          "npcId": "ox7gjg4bmphrztja",
+          "instanceLabel": "D",
+          "type": "enemy",
+          "name": "Goblin D",
+          "baseName": "Goblin",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 2,
+          "ac": 15,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Scimitar",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+              ]
+            },
+            {
+              "name": "Shortbow",
+              "note": [
+                "rw 4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Goblin",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "2d6"
+        },
+        {
+          "id": "eudx54idmphs1cq5",
+          "npcId": "mfwyb39pmp3ukqy7",
+          "instanceLabel": "A",
+          "type": "enemy",
+          "name": "Kobold A",
+          "baseName": "Kobold",
+          "hp": 5,
+          "hpMax": 5,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/8",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Dagger",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+              ]
+            },
+            {
+              "name": "Sling",
+              "note": [
+                "rw 4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Kobold",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6 - 2"
+          },
+          "hpMode": "fixed",
+          "hpValue": 5,
+          "hpFormula": "2d6 - 2"
+        },
+        {
+          "id": "3uh7zda3mphs1cq5",
+          "npcId": "mfwyb39pmp3ukqy7",
+          "instanceLabel": "B",
+          "type": "enemy",
+          "name": "Kobold B",
+          "baseName": "Kobold",
+          "hp": 5,
+          "hpMax": 5,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/8",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Dagger",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+              ]
+            },
+            {
+              "name": "Sling",
+              "note": [
+                "rw 4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Kobold",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6 - 2"
+          },
+          "hpMode": "fixed",
+          "hpValue": 5,
+          "hpFormula": "2d6 - 2"
+        }
+      ],
+      "updatedAt": "2026-05-23T03:16:25.901Z"
     }
   ]
 }
