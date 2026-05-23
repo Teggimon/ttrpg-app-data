@@ -506,6 +506,360 @@
       "updatedAt": "2026-05-13T13:56:02.617Z",
       "lastOutcome": "victory",
       "lastRunAt": "2026-05-13T13:56:02.617Z"
+    },
+    {
+      "encounterId": "jt02jblxmphrwmbf",
+      "name": "Encounter 23/5/2026",
+      "defeated": false,
+      "status": "prepared",
+      "enemyCount": 8,
+      "groups": [
+        {
+          "npcId": "mfwyb39pmp3ukqy7",
+          "quantity": 4,
+          "hpMode": "fixed",
+          "hpValue": 5,
+          "hpFormula": "2d6 - 2"
+        },
+        {
+          "npcId": "wc82lxsqmp3ukxub",
+          "quantity": 4,
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "3d6 - 3"
+        }
+      ],
+      "combatants": [
+        {
+          "id": "ubsgolrsmphrwmbe",
+          "npcId": "mfwyb39pmp3ukqy7",
+          "instanceLabel": "A",
+          "type": "enemy",
+          "name": "Kobold A",
+          "baseName": "Kobold",
+          "hp": 5,
+          "hpMax": 5,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/8",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Dagger",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+              ]
+            },
+            {
+              "name": "Sling",
+              "note": [
+                "rw 4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Kobold",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6 - 2"
+          },
+          "hpMode": "fixed",
+          "hpValue": 5,
+          "hpFormula": "2d6 - 2"
+        },
+        {
+          "id": "97ixj56mmphrwmbe",
+          "npcId": "mfwyb39pmp3ukqy7",
+          "instanceLabel": "B",
+          "type": "enemy",
+          "name": "Kobold B",
+          "baseName": "Kobold",
+          "hp": 5,
+          "hpMax": 5,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/8",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Dagger",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+              ]
+            },
+            {
+              "name": "Sling",
+              "note": [
+                "rw 4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Kobold",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6 - 2"
+          },
+          "hpMode": "fixed",
+          "hpValue": 5,
+          "hpFormula": "2d6 - 2"
+        },
+        {
+          "id": "h7q9id0smphrwmbf",
+          "npcId": "mfwyb39pmp3ukqy7",
+          "instanceLabel": "C",
+          "type": "enemy",
+          "name": "Kobold C",
+          "baseName": "Kobold",
+          "hp": 5,
+          "hpMax": 5,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/8",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Dagger",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+              ]
+            },
+            {
+              "name": "Sling",
+              "note": [
+                "rw 4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Kobold",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6 - 2"
+          },
+          "hpMode": "fixed",
+          "hpValue": 5,
+          "hpFormula": "2d6 - 2"
+        },
+        {
+          "id": "kparozpnmphrwmbf",
+          "npcId": "mfwyb39pmp3ukqy7",
+          "instanceLabel": "D",
+          "type": "enemy",
+          "name": "Kobold D",
+          "baseName": "Kobold",
+          "hp": 5,
+          "hpMax": 5,
+          "initiativeMod": 2,
+          "ac": 12,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/8",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Dagger",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+              ]
+            },
+            {
+              "name": "Sling",
+              "note": [
+                "rw 4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Kobold",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6 - 2"
+          },
+          "hpMode": "fixed",
+          "hpValue": 5,
+          "hpFormula": "2d6 - 2"
+        },
+        {
+          "id": "rkc4b4iimphrwmbf",
+          "npcId": "wc82lxsqmp3ukxub",
+          "instanceLabel": "A",
+          "type": "enemy",
+          "name": "Winged Kobold A",
+          "baseName": "Winged Kobold",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 3,
+          "ac": 13,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Dagger",
+              "note": [
+                "mw 5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+              ]
+            },
+            {
+              "name": "Dropped Rock",
+              "note": [
+                "rw 5 to hit, one target directly below the kobold. Hit: 6 (1d6 + 3) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Winged Kobold",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "3d6 - 3"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "3d6 - 3"
+        },
+        {
+          "id": "ae94dra4mphrwmbf",
+          "npcId": "wc82lxsqmp3ukxub",
+          "instanceLabel": "B",
+          "type": "enemy",
+          "name": "Winged Kobold B",
+          "baseName": "Winged Kobold",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 3,
+          "ac": 13,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Dagger",
+              "note": [
+                "mw 5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+              ]
+            },
+            {
+              "name": "Dropped Rock",
+              "note": [
+                "rw 5 to hit, one target directly below the kobold. Hit: 6 (1d6 + 3) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Winged Kobold",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "3d6 - 3"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "3d6 - 3"
+        },
+        {
+          "id": "y86ntaa0mphrwmbf",
+          "npcId": "wc82lxsqmp3ukxub",
+          "instanceLabel": "C",
+          "type": "enemy",
+          "name": "Winged Kobold C",
+          "baseName": "Winged Kobold",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 3,
+          "ac": 13,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Dagger",
+              "note": [
+                "mw 5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+              ]
+            },
+            {
+              "name": "Dropped Rock",
+              "note": [
+                "rw 5 to hit, one target directly below the kobold. Hit: 6 (1d6 + 3) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Winged Kobold",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "3d6 - 3"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "3d6 - 3"
+        },
+        {
+          "id": "130dr0hbmphrwmbf",
+          "npcId": "wc82lxsqmp3ukxub",
+          "instanceLabel": "D",
+          "type": "enemy",
+          "name": "Winged Kobold D",
+          "baseName": "Winged Kobold",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 3,
+          "ac": 13,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Dagger",
+              "note": [
+                "mw 5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+              ]
+            },
+            {
+              "name": "Dropped Rock",
+              "note": [
+                "rw 5 to hit, one target directly below the kobold. Hit: 6 (1d6 + 3) bludgeoning damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Winged Kobold",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "3d6 - 3"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "3d6 - 3"
+        }
+      ],
+      "updatedAt": "2026-05-23T03:12:45.051Z"
     }
   ]
 }
