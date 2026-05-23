@@ -860,6 +860,230 @@
         }
       ],
       "updatedAt": "2026-05-23T03:12:45.051Z"
+    },
+    {
+      "encounterId": "lokuoeh2mphs040y",
+      "name": "Encounter 23/5/2026",
+      "defeated": false,
+      "status": "prepared",
+      "enemyCount": 5,
+      "groups": [
+        {
+          "npcId": "ox7gjg4bmphrztja",
+          "quantity": 5,
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "2d6"
+        }
+      ],
+      "combatants": [
+        {
+          "id": "tu7zsa9amphs040y",
+          "npcId": "ox7gjg4bmphrztja",
+          "instanceLabel": "A",
+          "type": "enemy",
+          "name": "Goblin A",
+          "baseName": "Goblin",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 2,
+          "ac": 15,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Scimitar",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+              ]
+            },
+            {
+              "name": "Shortbow",
+              "note": [
+                "rw 4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Goblin",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "2d6"
+        },
+        {
+          "id": "guquwnecmphs040y",
+          "npcId": "ox7gjg4bmphrztja",
+          "instanceLabel": "B",
+          "type": "enemy",
+          "name": "Goblin B",
+          "baseName": "Goblin",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 2,
+          "ac": 15,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Scimitar",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+              ]
+            },
+            {
+              "name": "Shortbow",
+              "note": [
+                "rw 4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Goblin",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "2d6"
+        },
+        {
+          "id": "orp4w7w8mphs040y",
+          "npcId": "ox7gjg4bmphrztja",
+          "instanceLabel": "C",
+          "type": "enemy",
+          "name": "Goblin C",
+          "baseName": "Goblin",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 2,
+          "ac": 15,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Scimitar",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+              ]
+            },
+            {
+              "name": "Shortbow",
+              "note": [
+                "rw 4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Goblin",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "2d6"
+        },
+        {
+          "id": "jfadhztjmphs040y",
+          "npcId": "ox7gjg4bmphrztja",
+          "instanceLabel": "D",
+          "type": "enemy",
+          "name": "Goblin D",
+          "baseName": "Goblin",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 2,
+          "ac": 15,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Scimitar",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+              ]
+            },
+            {
+              "name": "Shortbow",
+              "note": [
+                "rw 4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Goblin",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "2d6"
+        },
+        {
+          "id": "a5799nh8mphs040y",
+          "npcId": "ox7gjg4bmphrztja",
+          "instanceLabel": "E",
+          "type": "enemy",
+          "name": "Goblin E",
+          "baseName": "Goblin",
+          "hp": 7,
+          "hpMax": 7,
+          "initiativeMod": 2,
+          "ac": 15,
+          "attackBonus": null,
+          "saveDC": null,
+          "cr": "1/4",
+          "conditions": [],
+          "downed": false,
+          "actions": [
+            {
+              "name": "Scimitar",
+              "note": [
+                "mw 4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+              ]
+            },
+            {
+              "name": "Shortbow",
+              "note": [
+                "rw 4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+              ]
+            }
+          ],
+          "traits": [],
+          "sourceNpc": {
+            "name": "Goblin",
+            "category": "standard",
+            "type": "humanoid",
+            "hitDie": "2d6"
+          },
+          "hpMode": "fixed",
+          "hpValue": 7,
+          "hpFormula": "2d6"
+        }
+      ],
+      "updatedAt": "2026-05-23T03:15:27.970Z"
     }
   ]
 }
