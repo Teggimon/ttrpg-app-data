@@ -16,6 +16,23 @@
           "inCampaign": true
         }
       ]
+    },
+    {
+      "github": "regimeelite",
+      "characters": [
+        {
+          "characterId": "7c765462-b058-4e7b-b533-774c23e0e41f",
+          "owner": "regimeelite",
+          "fileName": "01_korthos-vyre.json",
+          "name": "Korthos Vyre",
+          "class": "Monk 1",
+          "level": 1,
+          "hpCurrent": 9,
+          "hpMax": 9,
+          "active": true,
+          "inCampaign": true
+        }
+      ]
     }
   ]
 }
