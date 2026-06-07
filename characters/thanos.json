@@ -144,7 +144,7 @@
   "combat": {
     "hpMax": 12,
     "hpCurrent": 9,
-    "hpTemp": 4,
+    "hpTemp": 0,
     "ac": 16,
     "initiative": 0,
     "speed": 30,
