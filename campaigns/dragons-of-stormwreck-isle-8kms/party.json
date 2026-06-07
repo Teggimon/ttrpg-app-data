@@ -1,0 +1,21 @@
+{
+  "players": [
+    {
+      "github": "akbowlofcereal",
+      "characters": [
+        {
+          "characterId": "951c6aaf-6b49-4bff-a38f-5c92e8b278ed",
+          "owner": "akbowlofcereal",
+          "fileName": "01_kara-ironheart.json",
+          "name": "Kara Ironheart",
+          "class": "Barbarian 1",
+          "level": 1,
+          "hpCurrent": 16,
+          "hpMax": 16,
+          "active": true,
+          "inCampaign": true
+        }
+      ]
+    }
+  ]
+}
