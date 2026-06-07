@@ -357,6 +357,13 @@
         "name": "Feather Fall",
         "source": "PHB",
         "level": 1
+      },
+      {
+        "id": "4nmrnbunjgf",
+        "index": "frostbite",
+        "name": "Frostbite",
+        "source": "XGE",
+        "level": 0
       }
     ],
     "prepared": [
