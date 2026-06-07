@@ -33,6 +33,23 @@
           "inCampaign": true
         }
       ]
+    },
+    {
+      "github": "brittabossanova",
+      "characters": [
+        {
+          "characterId": "9c206a97-29bb-4847-87e1-280de54c1914",
+          "owner": "brittabossanova",
+          "fileName": "01_lirael-duskwhisper.json",
+          "name": "Lirael Duskwhisper",
+          "class": "Paladin 1",
+          "level": 1,
+          "hpCurrent": 11,
+          "hpMax": 11,
+          "active": true,
+          "inCampaign": true
+        }
+      ]
     }
   ]
 }
