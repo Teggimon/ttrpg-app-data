@@ -12,7 +12,19 @@
           "level": 1,
           "hpCurrent": 16,
           "hpMax": 16,
-          "active": false,
+          "active": true,
+          "inCampaign": true
+        },
+        {
+          "characterId": "213695ec-01c4-4c9d-ad00-9222f41bcbb4",
+          "owner": "akbowlofcereal",
+          "fileName": "01_mrs-watson.json",
+          "name": "Mrs. Watson",
+          "class": "Sorcerer 1",
+          "level": 1,
+          "hpCurrent": 8,
+          "hpMax": 8,
+          "active": true,
           "inCampaign": true
         }
       ]
