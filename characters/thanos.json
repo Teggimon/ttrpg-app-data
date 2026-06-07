@@ -144,7 +144,7 @@
   "combat": {
     "hpMax": 12,
     "hpCurrent": 12,
-    "hpTemp": 0,
+    "hpTemp": 4,
     "ac": 16,
     "initiative": 0,
     "speed": 30,
@@ -430,7 +430,7 @@
       },
       "equipment_category_index": "adventuring-gear",
       "weight": 1,
-      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torchâor anything else with abundant, exposed fuelâtakes an action. Lighting any other fire takes 1 minute.",
+      "description": "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torchÃ¢ÂÂor anything else with abundant, exposed fuelÃ¢ÂÂtakes an action. Lighting any other fire takes 1 minute.",
       "attuned": false,
       "sourcePack": "dungeoneer's pack"
     },
