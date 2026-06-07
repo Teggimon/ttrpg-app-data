@@ -143,8 +143,8 @@
   },
   "combat": {
     "hpMax": 12,
-    "hpCurrent": 10,
-    "hpTemp": 0,
+    "hpCurrent": 12,
+    "hpTemp": 2,
     "ac": 16,
     "initiative": 0,
     "speed": 30,
