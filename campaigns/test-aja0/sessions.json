@@ -8,8 +8,8 @@
       "status": "live",
       "duration": 1414,
       "timerRunning": false,
-      "timerStartedAt": "2026-06-20T13:44:43.923Z",
-      "timerUpdatedAt": "2026-06-20T13:44:43.923Z",
+      "timerStartedAt": null,
+      "timerUpdatedAt": "2026-06-20T13:44:49.053Z",
       "players": [
         {
           "characterId": "6851127a-ea46-4507-a112-7f718b89ee1b",
