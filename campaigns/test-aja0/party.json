@@ -19,7 +19,26 @@
       "github": "manual-rjjzyyusmqmcjd7l",
       "displayName": "test",
       "manual": true,
-      "characters": []
+      "characters": [
+        {
+          "characterId": "manual-ti67axmymqmck1j6",
+          "owner": null,
+          "fileName": null,
+          "name": "jaja",
+          "class": "rogue",
+          "level": 1,
+          "hpCurrent": 13,
+          "hpMax": 18,
+          "ac": 16,
+          "initiative": 2,
+          "initiativeMod": 2,
+          "keySkills": "",
+          "active": true,
+          "inCampaign": true,
+          "manual": true,
+          "dmCreated": true
+        }
+      ]
     }
   ]
 }
