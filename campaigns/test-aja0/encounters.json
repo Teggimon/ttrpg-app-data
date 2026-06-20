@@ -510,7 +510,7 @@
     {
       "encounterId": "jt02jblxmphrwmbf",
       "name": "Encounter 23/5/2026",
-      "defeated": false,
+      "defeated": true,
       "status": "prepared",
       "enemyCount": 8,
       "groups": [
@@ -859,7 +859,9 @@
           "hpFormula": "3d6 - 3"
         }
       ],
-      "updatedAt": "2026-05-23T03:12:45.051Z"
+      "updatedAt": "2026-06-20T13:18:17.168Z",
+      "lastOutcome": "victory",
+      "lastRunAt": "2026-06-20T13:18:17.168Z"
     },
     {
       "encounterId": "lokuoeh2mphs040y",
