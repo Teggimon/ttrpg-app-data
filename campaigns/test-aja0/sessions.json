@@ -82,7 +82,7 @@
               "type": "enemy",
               "name": "Kobold A",
               "baseName": "Kobold",
-              "hp": 5,
+              "hp": 4,
               "hpMax": 5,
               "initiativeMod": 2,
               "ac": 12,
@@ -90,7 +90,7 @@
               "saveDC": null,
               "cr": "1/8",
               "conditions": [],
-              "downed": true,
+              "downed": false,
               "actions": [
                 {
                   "name": "Dagger",
@@ -448,7 +448,7 @@
               "type": "enemy",
               "name": "Kobold A",
               "baseName": "Kobold",
-              "hp": 5,
+              "hp": 4,
               "hpMax": 5,
               "initiativeMod": 2,
               "ac": 12,
@@ -456,7 +456,7 @@
               "saveDC": null,
               "cr": "1/8",
               "conditions": [],
-              "downed": true,
+              "downed": false,
               "actions": [
                 {
                   "name": "Dagger",
@@ -761,7 +761,7 @@
             }
           ],
           "currentIdx": 0,
-          "updatedAt": "2026-06-20T13:42:12.536Z",
+          "updatedAt": "2026-06-20T13:44:57.411Z",
           "carriedAt": "2026-06-20T13:44:43.923Z",
           "continuation": {
             "fromSessionId": "5nt91i2wmp3ujba0",
