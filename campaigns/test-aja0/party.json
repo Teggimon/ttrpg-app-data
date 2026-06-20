@@ -14,6 +14,12 @@
           "inCampaign": true
         }
       ]
+    },
+    {
+      "github": "manual-rjjzyyusmqmcjd7l",
+      "displayName": "test",
+      "manual": true,
+      "characters": []
     }
   ]
 }
