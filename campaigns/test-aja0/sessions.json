@@ -51,9 +51,22 @@
       "name": "Session 1",
       "number": 1,
       "date": "2026-05-13T09:17:36.600Z",
-      "status": "live",
-      "duration": 3280641,
-      "players": [],
+      "status": "done",
+      "duration": 3281019,
+      "players": [
+        {
+          "characterId": "6851127a-ea46-4507-a112-7f718b89ee1b",
+          "characterName": "Thanos",
+          "github": "teggimon",
+          "absent": false
+        },
+        {
+          "characterId": "manual-ti67axmymqmck1j6",
+          "characterName": "jaja",
+          "github": "manual-rjjzyyusmqmcjd7l",
+          "absent": false
+        }
+      ],
       "encounters": [
         {
           "encounterId": "geioy8ktmp3ujv3h",
@@ -964,9 +977,9 @@
           "outcome": null
         }
       ],
-      "timerRunning": true,
-      "timerStartedAt": "2026-06-20T13:10:21.949Z",
-      "timerUpdatedAt": "2026-06-20T13:10:21.949Z",
+      "timerRunning": false,
+      "timerStartedAt": null,
+      "timerUpdatedAt": "2026-06-20T13:16:41.794Z",
       "notes": {
         "sections": [
           {
@@ -985,7 +998,8 @@
             "content": ""
           }
         ]
-      }
+      },
+      "endedAt": "2026-06-20T13:16:41.794Z"
     }
   ]
 }
