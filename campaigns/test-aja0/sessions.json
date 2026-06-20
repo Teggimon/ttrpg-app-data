@@ -6,10 +6,10 @@
       "number": 4,
       "date": "2026-06-20T13:56:18.042Z",
       "status": "live",
-      "duration": 0,
+      "duration": 15,
       "timerRunning": true,
-      "timerStartedAt": "2026-06-20T13:56:18.042Z",
-      "timerUpdatedAt": "2026-06-20T13:56:18.042Z",
+      "timerStartedAt": "2026-06-20T13:56:34.660Z",
+      "timerUpdatedAt": "2026-06-20T13:56:34.660Z",
       "players": [],
       "encounters": [
         {
@@ -758,7 +758,26 @@
           }
         }
       ],
-      "carriedFromSessionId": "jsv68k61mqmew6z3"
+      "carriedFromSessionId": "jsv68k61mqmew6z3",
+      "notes": {
+        "sections": [
+          {
+            "id": "happened",
+            "title": "What Happened",
+            "content": ""
+          },
+          {
+            "id": "dm-notes",
+            "title": "DM Notes (Private)",
+            "content": ""
+          },
+          {
+            "id": "loot",
+            "title": "Loot Given Out",
+            "content": ""
+          }
+        ]
+      }
     },
     {
       "sessionId": "jsv68k61mqmew6z3",
