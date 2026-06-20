@@ -9,7 +9,7 @@
       "duration": 0,
       "timerRunning": true,
       "timerStartedAt": "2026-06-20T13:56:37.362Z",
-      "timerUpdatedAt": "2026-06-20T13:56:37.362Z",
+      "timerUpdatedAt": "2026-06-20T14:02:20.969Z",
       "players": [],
       "encounters": [
         {
@@ -749,7 +749,7 @@
           ],
           "currentIdx": 0,
           "updatedAt": "2026-06-20T13:44:57.411Z",
-          "carriedAt": "2026-06-20T13:56:37.362Z",
+          "carriedAt": "2026-06-20T14:02:20.969Z",
           "continuation": {
             "fromSessionId": "va5swv75mqmf82ys",
             "fromEncounterId": "m13w7vrimqmet7df",
@@ -766,10 +766,10 @@
       "number": 4,
       "date": "2026-06-20T13:56:18.042Z",
       "status": "done",
-      "duration": 18,
+      "duration": 360,
       "timerRunning": false,
       "timerStartedAt": null,
-      "timerUpdatedAt": "2026-06-20T13:56:37.362Z",
+      "timerUpdatedAt": "2026-06-20T14:02:20.969Z",
       "players": [
         {
           "characterId": "6851127a-ea46-4507-a112-7f718b89ee1b",
@@ -1529,7 +1529,7 @@
             "toSessionId": "s2gctrdumqmf8i9o",
             "toEncounterId": "m13w7vrimqmet7df"
           },
-          "continuedAt": "2026-06-20T13:56:37.362Z"
+          "continuedAt": "2026-06-20T14:02:20.969Z"
         }
       ],
       "carriedFromSessionId": "jsv68k61mqmew6z3",
@@ -1552,7 +1552,7 @@
           }
         ]
       },
-      "endedAt": "2026-06-20T13:56:37.362Z"
+      "endedAt": "2026-06-20T14:02:20.969Z"
     },
     {
       "sessionId": "jsv68k61mqmew6z3",
