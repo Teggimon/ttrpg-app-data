@@ -531,7 +531,7 @@
       ],
       "combatants": [
         {
-          "id": "ubsgolrsmphrwmbe",
+          "id": "0rl5m75dmqmes0c7",
           "npcId": "mfwyb39pmp3ukqy7",
           "instanceLabel": "A",
           "type": "enemy",
@@ -572,7 +572,7 @@
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "97ixj56mmphrwmbe",
+          "id": "bqxaqsdgmqmes0c7",
           "npcId": "mfwyb39pmp3ukqy7",
           "instanceLabel": "B",
           "type": "enemy",
@@ -613,7 +613,7 @@
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "h7q9id0smphrwmbf",
+          "id": "mdrtkx8smqmes0c7",
           "npcId": "mfwyb39pmp3ukqy7",
           "instanceLabel": "C",
           "type": "enemy",
@@ -654,7 +654,7 @@
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "kparozpnmphrwmbf",
+          "id": "nh3is489mqmes0c7",
           "npcId": "mfwyb39pmp3ukqy7",
           "instanceLabel": "D",
           "type": "enemy",
@@ -695,7 +695,7 @@
           "hpFormula": "2d6 - 2"
         },
         {
-          "id": "rkc4b4iimphrwmbf",
+          "id": "mmw5o2qumqmes0c7",
           "npcId": "wc82lxsqmp3ukxub",
           "instanceLabel": "A",
           "type": "enemy",
@@ -736,7 +736,7 @@
           "hpFormula": "3d6 - 3"
         },
         {
-          "id": "ae94dra4mphrwmbf",
+          "id": "gr03q2hgmqmes0c7",
           "npcId": "wc82lxsqmp3ukxub",
           "instanceLabel": "B",
           "type": "enemy",
@@ -777,7 +777,7 @@
           "hpFormula": "3d6 - 3"
         },
         {
-          "id": "y86ntaa0mphrwmbf",
+          "id": "68zg6pxtmqmes0c7",
           "npcId": "wc82lxsqmp3ukxub",
           "instanceLabel": "C",
           "type": "enemy",
@@ -818,7 +818,7 @@
           "hpFormula": "3d6 - 3"
         },
         {
-          "id": "130dr0hbmphrwmbf",
+          "id": "gbq7ndpdmqmes0c7",
           "npcId": "wc82lxsqmp3ukxub",
           "instanceLabel": "D",
           "type": "enemy",
@@ -859,7 +859,7 @@
           "hpFormula": "3d6 - 3"
         }
       ],
-      "updatedAt": "2026-06-20T13:18:17.168Z",
+      "updatedAt": "2026-06-20T13:43:48.151Z",
       "lastOutcome": "victory",
       "lastRunAt": "2026-06-20T13:18:17.168Z"
     },
