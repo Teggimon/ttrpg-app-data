@@ -866,7 +866,7 @@
     {
       "encounterId": "lokuoeh2mphs040y",
       "name": "Encounter 23/5/2026",
-      "defeated": true,
+      "defeated": false,
       "status": "prepared",
       "enemyCount": 5,
       "groups": [
@@ -1085,7 +1085,7 @@
           "hpFormula": "2d6"
         }
       ],
-      "updatedAt": "2026-06-20T13:43:38.093Z"
+      "updatedAt": "2026-06-20T13:43:39.576Z"
     },
     {
       "encounterId": "nk03joi3mphs1cq5",
