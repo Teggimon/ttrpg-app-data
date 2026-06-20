@@ -1,6 +1,19 @@
 {
   "sessions": [
     {
+      "sessionId": "irrxr0tlmqmcylsd",
+      "name": "Session 2",
+      "number": 2,
+      "date": "2026-06-20T12:52:56.653Z",
+      "status": "live",
+      "duration": 0,
+      "timerRunning": true,
+      "timerStartedAt": "2026-06-20T12:52:56.653Z",
+      "timerUpdatedAt": "2026-06-20T12:52:56.653Z",
+      "players": [],
+      "encounters": []
+    },
+    {
       "sessionId": "5nt91i2wmp3ujba0",
       "name": "Session 1",
       "number": 1,
