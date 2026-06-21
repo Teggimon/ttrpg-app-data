@@ -63,7 +63,7 @@
               "type": "enemy",
               "name": "Zombie C",
               "baseName": "Zombie",
-              "hp": 7,
+              "hp": 0,
               "hpMax": 23,
               "initiativeMod": -2,
               "ac": 8,
@@ -71,7 +71,7 @@
               "saveDC": null,
               "cr": "1/4",
               "conditions": [],
-              "downed": false,
+              "downed": true,
               "actions": [
                 {
                   "name": "Slam",
@@ -123,7 +123,7 @@
               "type": "enemy",
               "name": "Zombie A",
               "baseName": "Zombie",
-              "hp": 3,
+              "hp": 2,
               "hpMax": 23,
               "initiativeMod": -2,
               "ac": 8,
@@ -237,7 +237,7 @@
               "type": "enemy",
               "name": "Zombie C",
               "baseName": "Zombie",
-              "hp": 7,
+              "hp": 0,
               "hpMax": 23,
               "initiativeMod": -2,
               "ac": 8,
@@ -245,7 +245,7 @@
               "saveDC": null,
               "cr": "1/4",
               "conditions": [],
-              "downed": false,
+              "downed": true,
               "actions": [
                 {
                   "name": "Slam",
@@ -297,7 +297,7 @@
               "type": "enemy",
               "name": "Zombie A",
               "baseName": "Zombie",
-              "hp": 3,
+              "hp": 2,
               "hpMax": 23,
               "initiativeMod": -2,
               "ac": 8,
@@ -364,7 +364,7 @@
             }
           ],
           "currentIdx": 5,
-          "updatedAt": "2026-06-21T04:50:00.885Z"
+          "updatedAt": "2026-06-21T04:53:44.465Z"
         }
       ],
       "notes": {
