@@ -159,7 +159,7 @@
               "type": "enemy",
               "name": "Zombie B",
               "baseName": "Zombie",
-              "hp": 17,
+              "hp": 5,
               "hpMax": 17,
               "initiativeMod": -2,
               "ac": 8,
@@ -333,7 +333,7 @@
               "type": "enemy",
               "name": "Zombie B",
               "baseName": "Zombie",
-              "hp": 17,
+              "hp": 5,
               "hpMax": 17,
               "initiativeMod": -2,
               "ac": 8,
@@ -364,7 +364,7 @@
             }
           ],
           "currentIdx": 2,
-          "updatedAt": "2026-06-21T04:34:45.035Z"
+          "updatedAt": "2026-06-21T04:38:51.906Z"
         }
       ],
       "notes": {
