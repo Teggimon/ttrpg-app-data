@@ -17,7 +17,7 @@
           "name": "1 Landing",
           "number": 1,
           "status": "live",
-          "rounds": 1,
+          "rounds": 2,
           "enemyCount": 3,
           "combatants": [
             {
@@ -363,8 +363,8 @@
               "initiative": 3
             }
           ],
-          "currentIdx": 7,
-          "updatedAt": "2026-06-21T04:59:14.444Z"
+          "currentIdx": 0,
+          "updatedAt": "2026-06-21T04:59:16.225Z"
         }
       ],
       "notes": {
