@@ -6,12 +6,150 @@
       "number": 1,
       "date": "2026-06-21T04:19:53.979Z",
       "status": "live",
-      "duration": 0,
+      "duration": 5,
       "timerRunning": true,
-      "timerStartedAt": "2026-06-21T04:19:53.980Z",
-      "timerUpdatedAt": "2026-06-21T04:19:53.980Z",
+      "timerStartedAt": "2026-06-21T04:19:59.492Z",
+      "timerUpdatedAt": "2026-06-21T04:19:59.492Z",
       "players": [],
-      "encounters": []
+      "encounters": [
+        {
+          "encounterId": "g13b3f1mmqna2sn8",
+          "name": "1 Landing",
+          "number": 1,
+          "status": "live",
+          "rounds": 1,
+          "enemyCount": 3,
+          "combatants": [
+            {
+              "id": "6f0bk4bkmqna2sn8",
+              "npcId": "w9lg7xhgmp3ej3cx",
+              "instanceLabel": "A",
+              "type": "enemy",
+              "name": "Zombie A",
+              "baseName": "Zombie",
+              "hp": 22,
+              "hpMax": 22,
+              "initiativeMod": -2,
+              "ac": 8,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "1/4",
+              "conditions": [],
+              "downed": false,
+              "actions": [
+                {
+                  "name": "Slam",
+                  "note": [
+                    "mw 3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage."
+                  ]
+                }
+              ],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Zombie",
+                "category": "standard",
+                "type": "undead",
+                "hitDie": "3d8 + 9"
+              },
+              "hpMode": "roll",
+              "hpValue": 22,
+              "hpFormula": "3d8 + 9"
+            },
+            {
+              "id": "os8z9lvdmqna2sn8",
+              "npcId": "w9lg7xhgmp3ej3cx",
+              "instanceLabel": "B",
+              "type": "enemy",
+              "name": "Zombie B",
+              "baseName": "Zombie",
+              "hp": 22,
+              "hpMax": 22,
+              "initiativeMod": -2,
+              "ac": 8,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "1/4",
+              "conditions": [],
+              "downed": false,
+              "actions": [
+                {
+                  "name": "Slam",
+                  "note": [
+                    "mw 3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage."
+                  ]
+                }
+              ],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Zombie",
+                "category": "standard",
+                "type": "undead",
+                "hitDie": "3d8 + 9"
+              },
+              "hpMode": "roll",
+              "hpValue": 22,
+              "hpFormula": "3d8 + 9"
+            },
+            {
+              "id": "xfpm4cdkmqna2sn8",
+              "npcId": "w9lg7xhgmp3ej3cx",
+              "instanceLabel": "C",
+              "type": "enemy",
+              "name": "Zombie C",
+              "baseName": "Zombie",
+              "hp": 22,
+              "hpMax": 22,
+              "initiativeMod": -2,
+              "ac": 8,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "1/4",
+              "conditions": [],
+              "downed": false,
+              "actions": [
+                {
+                  "name": "Slam",
+                  "note": [
+                    "mw 3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage."
+                  ]
+                }
+              ],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Zombie",
+                "category": "standard",
+                "type": "undead",
+                "hitDie": "3d8 + 9"
+              },
+              "hpMode": "roll",
+              "hpValue": 22,
+              "hpFormula": "3d8 + 9"
+            }
+          ],
+          "preparedEncounterId": "spzzh9fwmp3gtv3k",
+          "defeated": false,
+          "outcome": null
+        }
+      ],
+      "notes": {
+        "sections": [
+          {
+            "id": "happened",
+            "title": "What Happened",
+            "content": ""
+          },
+          {
+            "id": "dm-notes",
+            "title": "DM Notes (Private)",
+            "content": ""
+          },
+          {
+            "id": "loot",
+            "title": "Loot Given Out",
+            "content": ""
+          }
+        ]
+      }
     }
   ]
 }
