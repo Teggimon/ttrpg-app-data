@@ -202,14 +202,26 @@
           "enemyCount": 3,
           "combatants": [
             {
+              "id": "manual-g23m6xgqmqn7h6nx",
+              "type": "player",
+              "name": "Kree-I-Vaar",
+              "hp": 11,
+              "hpMax": 11,
+              "initiative": 21,
+              "initiativeMod": 3,
+              "ac": 14,
+              "conditions": [],
+              "downed": false
+            },
+            {
               "id": "3isj52fkmrr88wjn",
               "npcId": "36pqmgp8mp3dl1wx",
               "instanceLabel": "A",
               "type": "enemy",
               "name": "Fume Drake A",
               "baseName": "Fume Drake",
-              "hp": 22,
-              "hpMax": 22,
+              "hp": 27,
+              "hpMax": 27,
               "initiativeMod": 2,
               "ac": 12,
               "attackBonus": null,
@@ -240,7 +252,20 @@
               },
               "hpMode": "roll",
               "hpValue": 22,
-              "hpFormula": "5d6 + 5"
+              "hpFormula": "5d6 + 5",
+              "initiative": 19
+            },
+            {
+              "id": "7c765462-b058-4e7b-b533-774c23e0e41f",
+              "type": "player",
+              "name": "Korthos Vyre",
+              "hp": 9,
+              "hpMax": 9,
+              "initiative": 18,
+              "initiativeMod": 0,
+              "ac": 10,
+              "conditions": [],
+              "downed": false
             },
             {
               "id": "zdf5y9bamrr88wjn",
@@ -249,8 +274,8 @@
               "type": "enemy",
               "name": "Fume Drake B",
               "baseName": "Fume Drake",
-              "hp": 22,
-              "hpMax": 22,
+              "hp": 21,
+              "hpMax": 21,
               "initiativeMod": 2,
               "ac": 12,
               "attackBonus": null,
@@ -281,7 +306,44 @@
               },
               "hpMode": "roll",
               "hpValue": 22,
-              "hpFormula": "5d6 + 5"
+              "hpFormula": "5d6 + 5",
+              "initiative": 13
+            },
+            {
+              "id": "213695ec-01c4-4c9d-ad00-9222f41bcbb4",
+              "type": "player",
+              "name": "Mrs. Watson",
+              "hp": 8,
+              "hpMax": 8,
+              "initiative": 12,
+              "initiativeMod": 0,
+              "ac": 10,
+              "conditions": [],
+              "downed": false
+            },
+            {
+              "id": "951c6aaf-6b49-4bff-a38f-5c92e8b278ed",
+              "type": "player",
+              "name": "Kara Ironheart",
+              "hp": 16,
+              "hpMax": 16,
+              "initiative": 11,
+              "initiativeMod": 0,
+              "ac": 10,
+              "conditions": [],
+              "downed": false
+            },
+            {
+              "id": "9c206a97-29bb-4847-87e1-280de54c1914",
+              "type": "player",
+              "name": "Lirael Duskwhisper",
+              "hp": 11,
+              "hpMax": 11,
+              "initiative": 10,
+              "initiativeMod": 0,
+              "ac": 10,
+              "conditions": [],
+              "downed": false
             },
             {
               "id": "9dylbz45mrr88wjn",
@@ -290,8 +352,8 @@
               "type": "enemy",
               "name": "Fume Drake C",
               "baseName": "Fume Drake",
-              "hp": 22,
-              "hpMax": 22,
+              "hp": 23,
+              "hpMax": 23,
               "initiativeMod": 2,
               "ac": 12,
               "attackBonus": null,
@@ -322,12 +384,204 @@
               },
               "hpMode": "roll",
               "hpValue": 22,
-              "hpFormula": "5d6 + 5"
+              "hpFormula": "5d6 + 5",
+              "initiative": 9
             }
           ],
           "preparedEncounterId": "ayd8ncx9mp3gya1s",
           "defeated": false,
-          "outcome": null
+          "outcome": null,
+          "phase": "combat",
+          "order": [
+            {
+              "id": "manual-g23m6xgqmqn7h6nx",
+              "type": "player",
+              "name": "Kree-I-Vaar",
+              "hp": 11,
+              "hpMax": 11,
+              "initiative": 21,
+              "initiativeMod": 3,
+              "ac": 14,
+              "conditions": [],
+              "downed": false
+            },
+            {
+              "id": "3isj52fkmrr88wjn",
+              "npcId": "36pqmgp8mp3dl1wx",
+              "instanceLabel": "A",
+              "type": "enemy",
+              "name": "Fume Drake A",
+              "baseName": "Fume Drake",
+              "hp": 27,
+              "hpMax": 27,
+              "initiativeMod": 2,
+              "ac": 12,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "1/4",
+              "conditions": [],
+              "downed": false,
+              "actions": [
+                {
+                  "name": "Bite",
+                  "note": [
+                    "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) fire damage."
+                  ]
+                },
+                {
+                  "name": "Scalding Breath {@recharge}",
+                  "note": [
+                    "The fume drake exhales a 15-foot cone of scalding steam. Each creature in that area must make a 11 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one."
+                  ]
+                }
+              ],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Fume Drake",
+                "category": "standard",
+                "type": "elemental",
+                "hitDie": "5d6 + 5"
+              },
+              "hpMode": "roll",
+              "hpValue": 22,
+              "hpFormula": "5d6 + 5",
+              "initiative": 19
+            },
+            {
+              "id": "7c765462-b058-4e7b-b533-774c23e0e41f",
+              "type": "player",
+              "name": "Korthos Vyre",
+              "hp": 9,
+              "hpMax": 9,
+              "initiative": 18,
+              "initiativeMod": 0,
+              "ac": 10,
+              "conditions": [],
+              "downed": false
+            },
+            {
+              "id": "zdf5y9bamrr88wjn",
+              "npcId": "36pqmgp8mp3dl1wx",
+              "instanceLabel": "B",
+              "type": "enemy",
+              "name": "Fume Drake B",
+              "baseName": "Fume Drake",
+              "hp": 21,
+              "hpMax": 21,
+              "initiativeMod": 2,
+              "ac": 12,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "1/4",
+              "conditions": [],
+              "downed": false,
+              "actions": [
+                {
+                  "name": "Bite",
+                  "note": [
+                    "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) fire damage."
+                  ]
+                },
+                {
+                  "name": "Scalding Breath {@recharge}",
+                  "note": [
+                    "The fume drake exhales a 15-foot cone of scalding steam. Each creature in that area must make a 11 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one."
+                  ]
+                }
+              ],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Fume Drake",
+                "category": "standard",
+                "type": "elemental",
+                "hitDie": "5d6 + 5"
+              },
+              "hpMode": "roll",
+              "hpValue": 22,
+              "hpFormula": "5d6 + 5",
+              "initiative": 13
+            },
+            {
+              "id": "213695ec-01c4-4c9d-ad00-9222f41bcbb4",
+              "type": "player",
+              "name": "Mrs. Watson",
+              "hp": 8,
+              "hpMax": 8,
+              "initiative": 12,
+              "initiativeMod": 0,
+              "ac": 10,
+              "conditions": [],
+              "downed": false
+            },
+            {
+              "id": "951c6aaf-6b49-4bff-a38f-5c92e8b278ed",
+              "type": "player",
+              "name": "Kara Ironheart",
+              "hp": 16,
+              "hpMax": 16,
+              "initiative": 11,
+              "initiativeMod": 0,
+              "ac": 10,
+              "conditions": [],
+              "downed": false
+            },
+            {
+              "id": "9c206a97-29bb-4847-87e1-280de54c1914",
+              "type": "player",
+              "name": "Lirael Duskwhisper",
+              "hp": 11,
+              "hpMax": 11,
+              "initiative": 10,
+              "initiativeMod": 0,
+              "ac": 10,
+              "conditions": [],
+              "downed": false
+            },
+            {
+              "id": "9dylbz45mrr88wjn",
+              "npcId": "36pqmgp8mp3dl1wx",
+              "instanceLabel": "C",
+              "type": "enemy",
+              "name": "Fume Drake C",
+              "baseName": "Fume Drake",
+              "hp": 23,
+              "hpMax": 23,
+              "initiativeMod": 2,
+              "ac": 12,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "1/4",
+              "conditions": [],
+              "downed": false,
+              "actions": [
+                {
+                  "name": "Bite",
+                  "note": [
+                    "mw 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) fire damage."
+                  ]
+                },
+                {
+                  "name": "Scalding Breath {@recharge}",
+                  "note": [
+                    "The fume drake exhales a 15-foot cone of scalding steam. Each creature in that area must make a 11 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one."
+                  ]
+                }
+              ],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Fume Drake",
+                "category": "standard",
+                "type": "elemental",
+                "hitDie": "5d6 + 5"
+              },
+              "hpMode": "roll",
+              "hpValue": 22,
+              "hpFormula": "5d6 + 5",
+              "initiative": 9
+            }
+          ],
+          "currentIdx": 1,
+          "updatedAt": "2026-07-19T03:28:34.723Z"
         }
       ],
       "notes": {
