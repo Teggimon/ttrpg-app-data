@@ -220,7 +220,7 @@
               "type": "enemy",
               "name": "Fume Drake A",
               "baseName": "Fume Drake",
-              "hp": 1,
+              "hp": 11,
               "hpMax": 27,
               "initiativeMod": 2,
               "ac": 12,
@@ -412,7 +412,7 @@
               "type": "enemy",
               "name": "Fume Drake A",
               "baseName": "Fume Drake",
-              "hp": 1,
+              "hp": 11,
               "hpMax": 27,
               "initiativeMod": 2,
               "ac": 12,
@@ -581,7 +581,7 @@
             }
           ],
           "currentIdx": 4,
-          "updatedAt": "2026-07-19T03:42:45.038Z"
+          "updatedAt": "2026-07-19T03:42:48.776Z"
         }
       ],
       "notes": {
