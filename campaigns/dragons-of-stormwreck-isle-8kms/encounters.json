@@ -3,7 +3,7 @@
     {
       "encounterId": "spzzh9fwmp3gtv3k",
       "name": "1 Landing",
-      "defeated": false,
+      "defeated": true,
       "status": "prepared",
       "enemyCount": 3,
       "groups": [
@@ -122,7 +122,9 @@
           "hpFormula": "3d8 + 9"
         }
       ],
-      "updatedAt": "2026-05-13T02:53:54.225Z"
+      "updatedAt": "2026-07-19T03:19:15.082Z",
+      "lastOutcome": "victory",
+      "lastRunAt": "2026-07-19T03:19:15.082Z"
     },
     {
       "encounterId": "ayd8ncx9mp3gya1s",
