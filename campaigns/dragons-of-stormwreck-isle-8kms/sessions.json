@@ -198,7 +198,7 @@
           "name": "Opt 1 Combat",
           "number": 2,
           "status": "live",
-          "rounds": 2,
+          "rounds": 3,
           "enemyCount": 3,
           "combatants": [
             {
@@ -580,8 +580,8 @@
               "initiative": 9
             }
           ],
-          "currentIdx": 7,
-          "updatedAt": "2026-07-19T04:10:22.383Z"
+          "currentIdx": 0,
+          "updatedAt": "2026-07-19T04:12:06.364Z"
         }
       ],
       "notes": {
