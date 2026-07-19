@@ -129,7 +129,7 @@
     {
       "encounterId": "ayd8ncx9mp3gya1s",
       "name": "Opt 1 Combat",
-      "defeated": false,
+      "defeated": true,
       "status": "prepared",
       "enemyCount": 3,
       "groups": [
@@ -266,7 +266,9 @@
           "hpFormula": "5d6 + 5"
         }
       ],
-      "updatedAt": "2026-05-13T02:57:35.091Z"
+      "updatedAt": "2026-07-19T04:35:34.234Z",
+      "lastOutcome": "victory",
+      "lastRunAt": "2026-07-19T04:35:34.234Z"
     },
     {
       "encounterId": "rc36iej2mp3gze41",
