@@ -220,7 +220,7 @@
               "type": "enemy",
               "name": "Fume Drake A",
               "baseName": "Fume Drake",
-              "hp": 11,
+              "hp": 0,
               "hpMax": 27,
               "initiativeMod": 2,
               "ac": 12,
@@ -228,7 +228,7 @@
               "saveDC": null,
               "cr": "1/4",
               "conditions": [],
-              "downed": false,
+              "downed": true,
               "actions": [
                 {
                   "name": "Bite",
@@ -412,7 +412,7 @@
               "type": "enemy",
               "name": "Fume Drake A",
               "baseName": "Fume Drake",
-              "hp": 11,
+              "hp": 0,
               "hpMax": 27,
               "initiativeMod": 2,
               "ac": 12,
@@ -420,7 +420,7 @@
               "saveDC": null,
               "cr": "1/4",
               "conditions": [],
-              "downed": false,
+              "downed": true,
               "actions": [
                 {
                   "name": "Bite",
@@ -581,7 +581,7 @@
             }
           ],
           "currentIdx": 0,
-          "updatedAt": "2026-07-19T03:50:32.396Z"
+          "updatedAt": "2026-07-19T03:54:10.779Z"
         }
       ],
       "notes": {
