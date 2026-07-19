@@ -6,10 +6,10 @@
       "number": 1,
       "date": "2026-06-21T04:19:53.979Z",
       "status": "live",
-      "duration": 6,
+      "duration": 2415575,
       "timerRunning": true,
-      "timerStartedAt": "2026-06-21T04:20:00.789Z",
-      "timerUpdatedAt": "2026-06-21T04:20:00.789Z",
+      "timerStartedAt": "2026-07-19T03:19:31.364Z",
+      "timerUpdatedAt": "2026-07-19T03:19:31.364Z",
       "players": [],
       "encounters": [
         {
