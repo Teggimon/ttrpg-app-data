@@ -1,16 +1,157 @@
 {
   "sessions": [
     {
+      "sessionId": "vm28enhgmrrdhnzo",
+      "name": "Session 2",
+      "number": 2,
+      "date": "2026-07-19T05:46:18.822Z",
+      "status": "live",
+      "duration": 0,
+      "timerRunning": true,
+      "timerStartedAt": "2026-07-19T05:46:18.822Z",
+      "timerUpdatedAt": "2026-07-19T05:46:18.822Z",
+      "players": [],
+      "encounters": [
+        {
+          "encounterId": "2hh4l0asmrrdhnpi",
+          "name": "3 Seagrow caves - V Fungi",
+          "number": 1,
+          "status": "live",
+          "rounds": 1,
+          "enemyCount": 3,
+          "combatants": [
+            {
+              "id": "brfpwli6mrrcm5f2",
+              "npcId": "lmcuw3ylmp3emvge",
+              "instanceLabel": "A",
+              "type": "enemy",
+              "name": "Violet Fungus A",
+              "baseName": "Violet Fungus",
+              "hp": 10,
+              "hpMax": 10,
+              "initiativeMod": 0,
+              "ac": 10,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "undefined",
+              "conditions": [],
+              "downed": false,
+              "actions": [],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Violet Fungus",
+                "category": "standard",
+                "hitDie": ""
+              },
+              "hpMode": "roll",
+              "hpValue": 10,
+              "hpFormula": ""
+            },
+            {
+              "id": "ym2q12wfmrrcm5f2",
+              "npcId": "lmcuw3ylmp3emvge",
+              "instanceLabel": "B",
+              "type": "enemy",
+              "name": "Violet Fungus B",
+              "baseName": "Violet Fungus",
+              "hp": 10,
+              "hpMax": 10,
+              "initiativeMod": 0,
+              "ac": 10,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "undefined",
+              "conditions": [],
+              "downed": false,
+              "actions": [],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Violet Fungus",
+                "category": "standard",
+                "hitDie": ""
+              },
+              "hpMode": "roll",
+              "hpValue": 10,
+              "hpFormula": ""
+            },
+            {
+              "id": "hwe5hqv0mrrcm5f2",
+              "npcId": "lmcuw3ylmp3emvge",
+              "instanceLabel": "C",
+              "type": "enemy",
+              "name": "Violet Fungus C",
+              "baseName": "Violet Fungus",
+              "hp": 10,
+              "hpMax": 10,
+              "initiativeMod": 0,
+              "ac": 10,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "undefined",
+              "conditions": [],
+              "downed": false,
+              "actions": [],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Violet Fungus",
+                "category": "standard",
+                "hitDie": ""
+              },
+              "hpMode": "roll",
+              "hpValue": 10,
+              "hpFormula": ""
+            }
+          ],
+          "preparedEncounterId": "v3yo9vzpmp3h8fiv",
+          "defeated": false,
+          "outcome": null,
+          "carriedAt": "2026-07-19T05:46:18.822Z",
+          "continuation": {
+            "fromSessionId": "6xa48kxxmqna2oe3",
+            "fromEncounterId": "3e3bcoezmrrcm5f2",
+            "toSessionId": "vm28enhgmrrdhnzo",
+            "toEncounterId": "2hh4l0asmrrdhnpi"
+          }
+        }
+      ],
+      "carriedFromSessionId": "6xa48kxxmqna2oe3"
+    },
+    {
       "sessionId": "6xa48kxxmqna2oe3",
       "name": "Session 1",
       "number": 1,
       "date": "2026-06-21T04:19:53.979Z",
-      "status": "live",
-      "duration": 2421708,
-      "timerRunning": true,
-      "timerStartedAt": "2026-07-19T05:46:04.266Z",
-      "timerUpdatedAt": "2026-07-19T05:46:04.266Z",
-      "players": [],
+      "status": "done",
+      "duration": 2421723,
+      "timerRunning": false,
+      "timerStartedAt": null,
+      "timerUpdatedAt": "2026-07-19T05:46:18.822Z",
+      "players": [
+        {
+          "characterId": "951c6aaf-6b49-4bff-a38f-5c92e8b278ed",
+          "characterName": "Kara Ironheart",
+          "github": "akbowlofcereal",
+          "absent": false
+        },
+        {
+          "characterId": "213695ec-01c4-4c9d-ad00-9222f41bcbb4",
+          "characterName": "Mrs. Watson",
+          "github": "akbowlofcereal",
+          "absent": false
+        },
+        {
+          "characterId": "7c765462-b058-4e7b-b533-774c23e0e41f",
+          "characterName": "Korthos Vyre",
+          "github": "regimeelite",
+          "absent": false
+        },
+        {
+          "characterId": "9c206a97-29bb-4847-87e1-280de54c1914",
+          "characterName": "Lirael Duskwhisper",
+          "github": "brittabossanova",
+          "absent": false
+        }
+      ],
       "encounters": [
         {
           "encounterId": "g13b3f1mmqna2sn8",
@@ -396,7 +537,7 @@
           "encounterId": "3e3bcoezmrrcm5f2",
           "name": "3 Seagrow caves - V Fungi",
           "number": 3,
-          "status": "live",
+          "status": "continued",
           "rounds": 1,
           "enemyCount": 3,
           "combatants": [
@@ -484,7 +625,14 @@
           ],
           "preparedEncounterId": "v3yo9vzpmp3h8fiv",
           "defeated": false,
-          "outcome": null
+          "outcome": "continued",
+          "continuedAt": "2026-07-19T05:46:18.822Z",
+          "continuation": {
+            "fromSessionId": "6xa48kxxmqna2oe3",
+            "fromEncounterId": "3e3bcoezmrrcm5f2",
+            "toSessionId": "vm28enhgmrrdhnzo",
+            "toEncounterId": "2hh4l0asmrrdhnpi"
+          }
         }
       ],
       "notes": {
@@ -505,7 +653,8 @@
             "content": ""
           }
         ]
-      }
+      },
+      "endedAt": "2026-07-19T05:46:18.822Z"
     }
   ]
 }
