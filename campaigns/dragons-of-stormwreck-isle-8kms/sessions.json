@@ -6,10 +6,10 @@
       "number": 1,
       "date": "2026-06-21T04:19:53.979Z",
       "status": "live",
-      "duration": 2420243,
+      "duration": 2420255,
       "timerRunning": true,
-      "timerStartedAt": "2026-07-19T05:21:37.924Z",
-      "timerUpdatedAt": "2026-07-19T05:21:37.924Z",
+      "timerStartedAt": "2026-07-19T05:21:48.782Z",
+      "timerUpdatedAt": "2026-07-19T05:21:48.782Z",
       "players": [],
       "encounters": [
         {
@@ -391,6 +391,100 @@
           "preparedEncounterId": "ayd8ncx9mp3gya1s",
           "defeated": true,
           "outcome": "victory"
+        },
+        {
+          "encounterId": "3e3bcoezmrrcm5f2",
+          "name": "3 Seagrow caves - V Fungi",
+          "number": 3,
+          "status": "live",
+          "rounds": 1,
+          "enemyCount": 3,
+          "combatants": [
+            {
+              "id": "brfpwli6mrrcm5f2",
+              "npcId": "lmcuw3ylmp3emvge",
+              "instanceLabel": "A",
+              "type": "enemy",
+              "name": "Violet Fungus A",
+              "baseName": "Violet Fungus",
+              "hp": 10,
+              "hpMax": 10,
+              "initiativeMod": 0,
+              "ac": 10,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "undefined",
+              "conditions": [],
+              "downed": false,
+              "actions": [],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Violet Fungus",
+                "category": "standard",
+                "hitDie": ""
+              },
+              "hpMode": "roll",
+              "hpValue": 10,
+              "hpFormula": ""
+            },
+            {
+              "id": "ym2q12wfmrrcm5f2",
+              "npcId": "lmcuw3ylmp3emvge",
+              "instanceLabel": "B",
+              "type": "enemy",
+              "name": "Violet Fungus B",
+              "baseName": "Violet Fungus",
+              "hp": 10,
+              "hpMax": 10,
+              "initiativeMod": 0,
+              "ac": 10,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "undefined",
+              "conditions": [],
+              "downed": false,
+              "actions": [],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Violet Fungus",
+                "category": "standard",
+                "hitDie": ""
+              },
+              "hpMode": "roll",
+              "hpValue": 10,
+              "hpFormula": ""
+            },
+            {
+              "id": "hwe5hqv0mrrcm5f2",
+              "npcId": "lmcuw3ylmp3emvge",
+              "instanceLabel": "C",
+              "type": "enemy",
+              "name": "Violet Fungus C",
+              "baseName": "Violet Fungus",
+              "hp": 10,
+              "hpMax": 10,
+              "initiativeMod": 0,
+              "ac": 10,
+              "attackBonus": null,
+              "saveDC": null,
+              "cr": "undefined",
+              "conditions": [],
+              "downed": false,
+              "actions": [],
+              "traits": [],
+              "sourceNpc": {
+                "name": "Violet Fungus",
+                "category": "standard",
+                "hitDie": ""
+              },
+              "hpMode": "roll",
+              "hpValue": 10,
+              "hpFormula": ""
+            }
+          ],
+          "preparedEncounterId": "v3yo9vzpmp3h8fiv",
+          "defeated": false,
+          "outcome": null
         }
       ],
       "notes": {
